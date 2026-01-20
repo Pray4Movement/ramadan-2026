@@ -1006,7 +1006,7 @@ May the living and active Word of God, sharper than any double-edged sword, pene
                     '<!-- /wp:heading -->',
 
                     '<!-- wp:paragraph -->',
-                    '<p><em>' . __( 'One of the primary ways God is drawing Muslims to Himself is through simple Bible studies that highlight passages of scripture from Creation through the Resurrection. The Waha app (https://waha.app/) contains many story sets that have been translated into dozens of languages. Throughout the 30 days we will pray through these story sets that reveal Jesus, the Word made flesh.', 'ramadan-2026' ) . '</em></p>',
+                    '<p><em>' . __( 'One of the primary ways God is drawing Muslims to Himself is through simple Bible studies that highlight passages of scripture from Creation through the Resurrection. <a href="https://waha.app/">The Waha app</a> contains many story sets that have been translated into dozens of languages. Throughout the 30 days we will pray through these story sets that reveal Jesus, the Word made flesh.', 'ramadan-2026' ) . '</em></p>',
                     '<!-- /wp:paragraph -->',
 
                     '<!-- wp:paragraph -->',
