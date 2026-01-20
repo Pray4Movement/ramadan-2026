@@ -1,0 +1,20 @@
+#. Plugin Name of the plugin
+msgid "Disciple.Tools - Ramadan 2026"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/Pray4Movement/ramadan-2026"
+msgstr ""
+
+#. Description of the plugin
+msgid "Disciple.Tools - Ramadan 2026 prayer fuel content."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/Pray4Movement"
+msgstr ""
+
+#: admin/admin-menu-and-tabs.php:40
+#: admin/admin-menu-and-tabs.php:49
+msgid "Ramadan 2026"
+msgstr ""

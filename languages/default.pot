@@ -1,0 +1,1218 @@
+# Copyright (C) 2026
+# This file is distributed under the same license as the Disciple.Tools - Ramadan 2026 plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Disciple.Tools - Ramadan 2026 1.0.10\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ramadan-2026\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-03-07T21:08:33+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: ramadan-2026\n"
+
+#: admin/prayer-field-content.php:85
+msgid "\"Blessed are the poor in spirit, for theirs is the kingdom of heaven.\" (Matthew 5:3) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:86
+msgid "Islam is a works-based religion. The more faithfully Muslims practice the five pillars of Islam, the better their chances are of entering paradise. Today, as we pray through Matthew 5:3 for Muslims in this location, focus especially on how essential poverty of spirit (humility) is in entering the kingdom of heaven."
+msgstr ""
+
+#: admin/prayer-field-content.php:87
+msgid "Dina did everything she could to make herself clean before God, including wearing the niqab, her traditional Muslim head covering. She was so confident in her own righteousness that when she met a Christian, she agreed to read the Bible so that she could prove to him that it was wrong. But God met her during those days and showed her how completely impoverished she was before a holy God. She surrendered to Jesus and now lives in humble circumstances so that she can more effectively share the Good News with others. Pray for believers to be led by the Holy Spirit in how to model these words of Jesus to be \"poor in spirit\" in their neighborhoods, workplaces, families, and communities."
+msgstr ""
+
+#: admin/prayer-field-content.php:88
+msgid "Hejer said yes to being a housecleaner for one more household. The extra money would get her one step closer to the amount she needed to pay for the government-subsidized omra (pilgrimage to Mecca). Her life had been a hard one, filled with manual labor, the death of a baby, the disappearance of a grown child, and the struggle to support her living children through her low-wage house cleaning. She thought that if she could make this trip to Mecca happen, then she could take back a little bit of her sense of powerlessness and improve her chances of going to heaven when she died. Pray for Hejer and the many like her to become “poor in spirit,” recognizing their complete inability to earn God's favor."
+msgstr ""
+
+#: admin/prayer-field-content.php:89
+msgid "Throughout the Muslim world, churches and believers within those churches are viewed as inferior. Often, they have fewer rights and resources than the Muslim majority around them. Pray for the church body to take comfort in Jesus' words that “theirs is the kingdom of heaven.” May they intentionally engage the Muslims around them with the Gospel, bringing multiplication and growth as the early church did, rejoicing in their weaknesses because Jesus' power is made perfect in them."
+msgstr ""
+
+#: admin/prayer-field-content.php:90
+msgid "Pray for places of education in this area. Pray for students who hope that an education will lead to better jobs and better lives than their parents had. Pray for the Spirit to meet them. Pray for Him to simultaneously show them their immeasurable worth as image-bearers of God and that the \"riches of his glorious inheritance\" are only for the poor in spirit."
+msgstr ""
+
+#: admin/prayer-field-content.php:91
+msgid "We declare your teaching, Jesus, that the poor in spirit are blessed among these people, for theirs is the kingdom of heaven. We pray for you to multiply disciples throughout this place who have such a clear identity in you that they can humbly live out what it means to be “poor in spirit.” Finally, we pray for ourselves. Please make us poor in spirit."
+msgstr ""
+
+#: admin/prayer-field-content.php:95
+msgid "\"Blessed are those who mourn, for they shall be comforted.\" (Matthew 5:4) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:96
+msgid "Excessive wailing and mourning at the death of a relative is prohibited in Islam. Each culture defines “excessive” differently. However, it's not rare to hear Muslim relatives of the deceased being scolded for crying at a funeral. Today, as we pray through Matthew 5:4 for Muslims, think about the deep grief you've experienced in your life and how Jesus has comforted you. Consider how Muslims might face devastating loss and how these words of Jesus could bring hope."
+msgstr ""
+
+#: admin/prayer-field-content.php:97
+msgid "\"My brothers won't let me go see her. If we go to her grave now and ask Jesus, will he raise her from the dead?\" Leila's heartbroken question about her late mom revealed the depth of her grief, the strength of her faith, and the mystery of sovereign sorrow. She knew the truth about Lazarus's story. She believed that God has complete authority over life and death and that Jesus himself is the resurrection and the life. And she knew that Jesus promises to comfort the mourning and so acknowledges that we will have sorrow. He is \"acquainted with grief and carries our sorrows\" (Isaiah 53). Some of her unbelieving relatives did not know of her faith and criticized how she mourned, but she had a dream that Jesus himself came across the waves to her, holding out arms of comfort. Pray that believers here will not lose sight of Jesus in their grief but will cry out to him and receive comfort."
+msgstr ""
+
+#: admin/prayer-field-content.php:98
+msgid "\"Say the Shehadda (the confession of being Muslim). It is your fault that he died.\" Deep grief, fear, and a desire for control caused Khalid to blame his father's death on his sister's choice to leave Islam. Those who have not yet entered the kingdom of God mourn without hope. In their desperation and desire to blame someone—anyone—they often do things that they are later ashamed of. Pray for all those mourning who do not yet know Jesus to feel the weight of their hopelessness and turn to call on the name of the Lord. Ask that the Father, who sees and draws near, would come to comfort in truth."
+msgstr ""
+
+#: admin/prayer-field-content.php:99
+msgid "Pray for the church to know how to comfort unbelievers with the comfort they themselves have received from God. It is very difficult when parents die who have not heard of Jesus or who have not chosen to follow him. One brother, when his mom died, did not want to think about eternity. He had followed Jesus for many years and had not specifically told her the gospel. This despair of wondering about her eternity caused him to pull away from other believers and from Jesus. Lord, we ask for wisdom and compassion that speaks the truth of the One Way to the Father and also acknowledges that grief sometimes warps our understanding. We thank you for knowing each heart and the faith that has been confessed, or that was still hidden. Please help your church to know how to comfort the mourning in truth."
+msgstr ""
+
+#: admin/prayer-field-content.php:100
+msgid "Pray for places of education in this country. Pause to pray for teachers working among these people. So many of their students have experienced violence, and many have lost close family members. Ask God to give teachers grace to provide structure and safety to students who are mourning or who have gone through trauma. May they look at the heart and see beyond the visible.Ask for it to be true of them for \"the tongue of the learned, that they would know how to speak a word in season to him who is weary\" (Isaiah 50:4)."
+msgstr ""
+
+#: admin/prayer-field-content.php:101
+msgid "We believe and declare that you, Jesus, comfort those who mourn. You are the Man of Sorrows and acquainted with grief. As you \"lifted up and carried\" your afflicted children \"all the days of old\" (Isaiah 63), lift up and carry the people in this region who are mourning."
+msgstr ""
+
+#: admin/prayer-field-content.php:105
+msgid "\"Blessed are the meek, for they shall inherit the earth.\" (Matthew 5:5) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:106
+msgid "Meekness has several meanings: \"enduring injury without resentment,\" or \"humbly patient under provocation,\" or \"gentle; kind”. Jesus shows us meekness by being “obedient unto death, even death on the cross\" (Phil 2). \"Like a lamb before his shearers is dumb, so he opened not his mouth\" (Isaiah 53). He declared himself to be \"meek and gentle of heart,\" and in Him we find \"rest for our souls\" (Matthew 11:29). Mohammed's life was one of battle. He told his followers, “A life for a life, eye for an eye, nose for a nose.” Pray for those still in Islam to see the spectacular beauty of grace and forgiveness found in Jesus. Jesus gave up great honor to come to earth and was disgraced at the cross. Pray that people will be ready to be dishonored on earth so that Jesus will be honored."
+msgstr ""
+
+#: admin/prayer-field-content.php:107
+msgid "Pray for meekness for believers here. The world shouts that in order to have influence, you must have money and power. You must fight for your rights, speak up, find your voice, and take what you deserve. Jesus declares that the meek, the humble, inherit the earth. Theirs is the inheritance. Not because they step on others to grab for more. No. Those who quietly submit to God, who can bear an insult or return a soft answer, who are patient—these will inherit the earth. The influence of the meek and self-controlled is, in the long run, greater than that of the impulsive and demanding."
+msgstr ""
+
+#: admin/prayer-field-content.php:108
+msgid "Just as the powerful centurion humbled himself before Jesus' authority when he recognized it (Matthew 8:5-13), pray for the lost in this area to come to a place of need that would cause them to humble themselves before Jesus. Pray for opportunities for the lost to talk to Christians who could show them the way of Jesus."
+msgstr ""
+
+#: admin/prayer-field-content.php:109
+msgid "Jesus sent out His followers as sheep among wolves. Pray for the church to model their trust in Jesus through living and acting with humility. Pray for Christian leaders to be an example of servant leadership and meekness."
+msgstr ""
+
+#: admin/prayer-field-content.php:110
+msgid ""
+"Pray for places of business in this area:\n"
+"- For employers to act with justice toward their employees.\n"
+"- For believers to have access to jobs that would provide them and their families with living wages.\n"
+"- For God to raise up Christian employers who would model Jesus' example of meekness in God-honoring ways."
+msgstr ""
+
+#: admin/prayer-field-content.php:114
+msgid ""
+"We declare your teaching, Jesus, that the meek are blessed, for they will inherit the earth. You \"oppose the proud but give grace to the humble\" (James 4:6).\n"
+"God, we need your grace. May the people of this region submit themselves to God, draw near to you, and receive grace."
+msgstr ""
+
+#: admin/prayer-field-content.php:120
+msgid "\"Blessed are those who hunger and thirst for righteousness, for they shall be satisfied.\" (Matthew 5:6) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:121
+msgid "True righteousness is achieved only through the blood of Jesus, with him being \"made sin for us so that we might become the righteousness of God\" (2 Cor 5:21). For all human beings, including Muslims, our tendency is to think that somehow, if we work hard enough, pray the right way, give sacrificially enough, fast severely enough, we will gain favor with God by our own righteousness. This self-righteous thinking spits on the cross and declares Jesus' blood unnecessary. Forgive us, Lord. May Muslims—and all people—see that the Scriptures repeatedly reveal that we cannot make ourselves righteous. May Muslims feel the weight of the impossibility of rescuing themselves and instead hunger and thirst for true righteousness through the cross."
+msgstr ""
+
+#: admin/prayer-field-content.php:122
+msgid "The six children were jumping on beds, dreaming up imaginary houses for dolls, and talking all at once. But Asmae sat on the floor, her back against the wall, reading the words of Jesus, completely ignoring everything else. One of the children fell and her toe bled, but Asmae continued to read, hungry to hear and know Jesus. She knew that dinner needed to be made, and many tasks for her large family were left undone. Asmae wondered how she could keep learning about Jesus with so many demands on her life and time. This first love of Jesus and His Word was beautiful and all-consuming. In the end, her many responsibilities and fears pushed aside reading the words of Jesus. Pray for believers to return to their first love and be satisfied only with Jesus."
+msgstr ""
+
+#: admin/prayer-field-content.php:123
+msgid "Maryam sat at the shop, waiting for someone to weigh out herbs to help with her stomach issues. Five other women were there waiting, and having a discussion. Maryam asked one of them, \"Do you know the story of Noah? Of Moses?\" When she heard about the ark and how God provided only one way of rescue from the flood, she said, \"That is grace.\" \"Yes,\" the believer agreed, \"there is no other way to live except the one way of salvation,\" and she went on to quote John 1:4-5. Maryam, shockingly, agreed verbally and then went on to ask about Moses, listening as the woman told about the Passover Lamb and how Jesus Himself was that Lamb. She said, \"I love to hear these stories. I want to come and listen to them again. Let's meet again at this shop.\" Praise God for her hunger. Although the believer has gone to the shop most days, they have not seen each other there again. Pray that Maryam's hunger and thirst will be satisfied in Jesus, that she will listen to true stories of Jesus from other believers, and that she will share the stories with others. Ask for others like her who long to hear; may they unashamedly ask, and may God's children be unashamed and bold in speaking the gospel."
+msgstr ""
+
+#: admin/prayer-field-content.php:124
+msgid "Lord, we ask for you to purify your church, your bride. May the beauty of grace not lull anyone into thinking that you are tolerant of sin. Sin destroys. As your children gather, may they confess their sins to one another and be healed (James 5:16). Let each one recognize that their righteousness is only because of Jesus. May they forgive quickly and receive forgiveness. Let them know the power of the cross to burn away all wood, hay, stubble, and straw and leave the gold and silver, the works of Christ's righteousness built on the foundation of Jesus (1 Cor 3:12-13)."
+msgstr ""
+
+#: admin/prayer-field-content.php:125
+msgid "Pray for places of government in this region. Father, we ask for Daniels and Josephs in the government. We pray for blameless ones dressed in the righteousness of Jesus, for whom no one can find fault except in their devotion to God. May these righteous ones “open wide” their windows to pray and display their love for you without fear. Please give them gifts of interpretation, discernment, or any gift the Spirit chooses to reveal and glorify Jesus. May those who work alongside them, over them, or under them hunger and thirst for the righteousness they see displayed, and come to Jesus."
+msgstr ""
+
+#: admin/prayer-field-content.php:126
+msgid ""
+"Jesus, you alone can satisfy the deepest longings of our hearts. Today, we intercede on behalf of the people here, asking for you to stir a deep hunger for righteousness among different parts of society:\n"
+"- Among the stay-at-home moms.\n"
+"- Among the imams (Islamic religious leaders).\n"
+"- Among the farmers.\n"
+"- Among the soldiers.\n"
+"- Among the nurses.\n"
+"Give them opportunities to know about you and to be satisfied by you."
+msgstr ""
+
+#: admin/prayer-field-content.php:136
+msgid "\"Blessed are the merciful, for they shall receive mercy.\" (Matthew 5:7) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:137
+msgid "One of the 99 names of God that Muslims often reference is “God the Merciful.” It is the one hope many Muslims hold on to when they acknowledge they have no assurance of salvation. Though they would never articulate it, they are hoping that God's mercy will trump His justice. Jesus Christ’s crucifixion and resurrection is the only way God can be completely merciful and just at the same time. Today, as we pray Matthew 5:7 for these people God loves, contemplate what Christian mercy means—we can be merciful because we can trust in a merciful and just God."
+msgstr ""
+
+#: admin/prayer-field-content.php:138
+msgid "One sister shook her head, accusingly reporting that she had seen another sister from her balcony pretending during Ramadan. \"She can't be a Christian. She put on the prayer shawl at the time of Muslim prayers.\" One brother told another, \"This verse (where Jesus says that he will deny before the Father those who deny him) haunts me. I think back to that year when my uncle was threatening me. I know that Jesus has forgiven me, and I want to stand firm now, but...\" Pray for courage for our sisters and brothers even in times of fear and persecution, and pray also that they would be merciful to one another. Let them not only receive mercy from their Father but also extend mercy to one another."
+msgstr ""
+
+#: admin/prayer-field-content.php:139
+msgid "As a believer looked into the eyes of her friend and apologized for bringing danger to her, this not-yet-believer extended mercy. \"I know that you are a Christian. I know that you speak of Jesus. You are not pressuring anyone. We all choose. I am glad God brought us together. I know that you did not bring this danger intentionally.\" How beautiful is the mercy she extended! This mercy flows because she is made in the image of God, but no good deeds will rescue her. She still needs the cleansing of the blood of Jesus. Pray that she and those like her (who try so hard to be good) would recognize that they need the mercy and justice of God, which is offered through the cross."
+msgstr ""
+
+#: admin/prayer-field-content.php:140
+msgid "\"He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God.\" (Micah 6:8) NIV God, empower your church in this region to live out this verse. We unite and pray for your church to act justly, love mercy, and walk humbly with you. May the church be known for humility, showing mercy, and acting with justice in the community."
+msgstr ""
+
+#: admin/prayer-field-content.php:141
+msgid "Pray for places of religion in this area. Today, as Muslims enter mosques all over the region, pray for those entering to ponder God's mercy. As they go through the motions of washing their hands, face, arms, and feet, may it cause them to wonder how God could truly have mercy on the sinful actions done by their hands, faces, arms, or feet. Ask God to move Christians to pray for the people inside the mosques they walk by. Pray for Christians to be quick to show mercy to their neighbors."
+msgstr ""
+
+#: admin/prayer-field-content.php:142
+msgid ""
+"James 3:17 says, \"But the wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and good fruits, impartial and sincere.\" \n"
+"God, fill this region with your wisdom–wisdom that is full of mercy. May the other descriptors of wisdom in this verse fill them as well."
+msgstr ""
+
+#: admin/prayer-field-content.php:147
+msgid "“Blessed are the pure in heart, for they shall see God.\" (Matthew 5:8) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:148
+msgid "Traditional Islam does not teach about having a personal relationship with God. The idea that Jesus communicated in this sermon that those who are pure in heart will see God is incomprehensible to Muslims. Pray for the hearts of Muslims to long to see God and to be curious when they hear Christians talk about their relationship with God through Jesus."
+msgstr ""
+
+#: admin/prayer-field-content.php:149
+msgid "A pure heart means an undivided heart. All the dross has been exposed and removed. No corners of the soul are dedicated to idols. A Hand of Fatima on the doorknob, a red string tied around the wrist, a necklace with the eye, a Koran placed by sleeping babies, prayer beads hung on taxi mirrors—all these turn the heart from Jesus and look elsewhere for protection. A divided heart. Mighty Holy Spirit, you want an undivided heart that fears God. Please strip away all the old patterns of trying to guard loved ones.  Remove idols from the souls of your children in this place. Let them have pure hearts that increasingly see God."
+msgstr ""
+
+#: admin/prayer-field-content.php:150
+msgid "The only way to a pure heart is through the blood of Jesus. Outward cleansing is highly valued in Islam, and people often speak of hearts that are \"white like milk.\"  Before each prayer time, devout Muslims will wash their hands, faces, arms, and feet, but no amount of ceremonial washing can cleanse the soul. Jewish priests, as well, from the time of Moses, were washed in water and sprinkled with blood before entering the holy places, recognizing the need for purity. “But these could never truly purify the worshiper.” (Heb 9:10)  When Christ appeared, he entered once and for all into the holy places by his own blood, thus securing eternal redemption.\" “how much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify our conscience from dead works to serve the living God.\" (Hebrews 9:14) ESV This is the way to purity.  This is the only way to enter the most Holy Place and see God. O Jesus, thank you for your blood. May these precious people believe that you died, once and for all. It is finished."
+msgstr ""
+
+#: admin/prayer-field-content.php:151
+msgid ""
+"\"Truly God is good to Israel,\n"
+"to those who are pure in heart.\n"
+"But as for me, my feet had almost stumbled,\n"
+"my steps had nearly slipped.\n"
+"For I was envious of the arrogant\n"
+"when I saw the prosperity of the wicked.\" (Psalm 73:1-3) ESV\n"
+"\n"
+"Christians can struggle to trust God and his ways when they see wicked people seemingly prospering all around them. Pray for the church here to hold on to the truth that God rewards the pure in heart...that there is a deeper reality than the fleeting circumstances we see through worldly eyes.\n"
+"\n"
+"\"Nevertheless, I am continually with you;\n"
+"you hold my right hand.\n"
+"You guide me with your counsel,\n"
+"and afterward you will receive me to glory.\n"
+"Whom have I in heaven but you?\n"
+"And there is nothing on earth that I desire besides you.\n"
+"My flesh and my heart may fail,\n"
+"but God is the strength[b] of my heart and my portion forever.\" (Psalm 73:23-26) ESV\n"
+""
+msgstr ""
+
+#: admin/prayer-field-content.php:169
+msgid ""
+"Pray for places of education in this area. Pray for children in schools to:\n"
+"- Be protected from evil, abuse, inappropriate images, and unwelcome touches.\n"
+"- Have educators who are diligent in helping to guard children's hearts from evil on the internet.\n"
+"- Have a safe place to learn and for their minds to be encouraged to think critically.\n"
+"- Be shielded from themes that are too much for their young hearts."
+msgstr ""
+
+#: admin/prayer-field-content.php:174
+msgid ""
+"We declare that purity be seen in servants of God:\n"
+"\n"
+"\"...as servants of God we commend ourselves in every way: by great endurance, in afflictions, hardships, calamities, beatings, imprisonments, riots, labors, sleepless nights, hunger; by purity, knowledge, patience, kindness, the Holy Spirit, genuine love; by truthful speech, and the power of God; with the weapons of righteousness for the right hand and for the left...\" (2 Corinthians 6:4-7) ESV\n"
+"\n"
+"God, shape disciples in this region to make disciples who make disciples. May their lives be marked by purity, knowledge, patience, kindness, the Holy Spirit, genuine love, truthful speech, and your power."
+msgstr ""
+
+#: admin/prayer-field-content.php:182
+msgid "“Blessed are the peacemakers, for they shall be called sons of God.\" (Matthew 5:9) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:183
+msgid "The most common greeting across the Muslim world is Salam (Peace). Hearts long for peace and even fight for peace, but peace is only found through the blood of Jesus. Through the Son, God reconciled “to himself all things, whether on earth or in heaven, making peace by the blood of his cross.\" (Colossians 1:20) ESV Those who make peace, who bring the message of reconciliation, are blessed and take after their Father. Pray that God's children would go to the anxious and the fearful and be peacemakers by bringing the gospel. God is the great reconciler."
+msgstr ""
+
+#: admin/prayer-field-content.php:184
+msgid "It was just a Christian women’s craft party, but the tension was palpable. It always was when she was there. “I’ve got to do better than this,” Sonia told herself as she felt hot blood rush to her face.  Oh mercy, she was coming right for her from across the room. “Salam (peace),” Sonia could barely eke out the words, her heart beating rapidly.  “Salam, my Sister!” Miriam replied, coming in for the standard kiss-on-the-cheek greetings.  Was this for real?  Sonia had worked so hard to forgive her Sister in Christ.  There weren’t many single men in the small underground fellowship they were a part of, and it had already been two years since the man she thought she’d marry decided to go for Miriam instead. She ran to the bathroom to collect herself and looked squarely into the mirror:  “I have forgiven her. I belong to Jesus. She belongs to Jesus. I have shut the door on my feelings of betrayal. I CAN DO THIS.” She splashed water on her face, trying not to let her tasteful makeup run out of place.  She smiled at Miriam, and they sat down to share a hot glue gun together, adhering ribbon onto a candle holder…the true Light of the World, the Prince of Peace, was at work, “So how are you doing, my Sister?”"
+msgstr ""
+
+#: admin/prayer-field-content.php:185
+msgid "“You don’t know the REAL Hesna,” Ali spat his sister’s name out of his mouth.  His face clouded over as he recalled their terrible fight after their parents passed away, much too young, leaving property and possessions for them to divide up.  The subject of inheritance commonly causes tension, often irreparable rifts between family members.  But Ali and Hesna were grown now: their children teenagers, living literally on top of one another in separate but attached apartments, yet not speaking to each other, nor each others’ children for 11 YEARS. They walked in and out of the same garden gate, hearing ‘Eid Miladoun Saaid (Happy Birthday)’ sung for nieces and nephews dozens of times, but utterly refusing to sit together for honest conversation, to make peace."
+msgstr ""
+
+#: admin/prayer-field-content.php:186
+msgid "Pray that the \"God of peace would soon crush Satan\" (Romans 16:20) and bring eternal peace. Satan is the accuser, the liar, the one who whispers words of anxiousness and fear, who says that God doesn't care. Pray that believers would \"calm and quiet their souls like a weaned child with his mother.\" (Psalm 131:2) Ask them to hope in the Lord, live in peace, and be peace bringers."
+msgstr ""
+
+#: admin/prayer-field-content.php:187
+msgid ""
+"Pray for places of community in this area. Pray for sports clubs to:\n"
+"- be places where Christians can build relationships with Muslims and model peacemaking in how they resolve conflict on a team.\n"
+"- be places where believers intentionally join to give opportunities for Muslims to \"taste and see\" the Kingdom.\n"
+"- be places where Christians live out the peace of Christ in winsome ways."
+msgstr ""
+
+#: admin/prayer-field-content.php:191
+msgid ""
+"When movements to Christ happen among a people group, everything gets multiplied: churches, disciples, obedience, leaders, intercessors, disciple-makers, and...peace.\n"
+"\n"
+"We unite and declare, \"May grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord.\" (2 Peter 1:2) for this precious people."
+msgstr ""
+
+#: admin/prayer-field-content.php:197
+msgid "“Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven.\" (Matthew 5:10) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:198
+msgid "Throughout most of the Muslim world, Christians are persecuted for their faith. This persecution causes many Christians from Muslim backgrounds or Christians living under an Islamic government to fear living out their faith. Some Muslims admit admiration for the teachings of Jesus, but the fear of persecution prohibits them from moving forward in following Christ. Let Jesus' promise that \"blessed are those who are persecuted\" guide your prayer time today."
+msgstr ""
+
+#: admin/prayer-field-content.php:199
+msgid "Pray that God's children who are right now in prison because of their faith in Jesus would remember and believe the truth of Jesus' words. \"Blessed are those who are persecuted for righteousness sake.\" When feelings declare that they are forgotten and unseen when the accuser whispers that maybe God is punishing them or maybe He is neither good nor loving, may each believer declare by the blood and name of Jesus that God is good and powerful and wise and they are blessed because He declares it so. Pray that each one will increasingly know the sweetness of the presence of God and the meaning of \"fellowship in his suffering.\""
+msgstr ""
+
+#: admin/prayer-field-content.php:200
+msgid "When the oppressors strike the faces of believers, may their hearts be stricken by the grace and light of Jesus in the face of his children. May the guards in prisons be dumbfounded by the peace and praise of suffering saints. When judges and lawyers who try the cases of Christians hear the charges against the believers and see them stand unwavering, may they wonder about the power and gentle confidence Jesus gives. Let them cry out with the jailer at Philippi, \"What must I do to be saved?\""
+msgstr ""
+
+#: admin/prayer-field-content.php:201
+msgid "One of the most difficult things for the persecuted church all over the world is gathering faithfully. Believers who have not yet told their families of their faith often hide their reason for leaving the house. When spouses or parents don't yet believe, Christians are reluctant to gather there for fear of being betrayed. How can men and women meet together honorably if there are only singles who believe? Pray for wisdom and courage for believers to gather honorably and honestly. May the church be willing to obey Jesus and gather even though they may be betrayed or imprisoned. Jesus is worthy."
+msgstr ""
+
+#: admin/prayer-field-content.php:202
+msgid ""
+"Pray for places of business in this region:\n"
+" - Pray for employers who would esteem their Christian employees because of their outstanding character.\n"
+" - Pray for believers who get fired from their jobs because of their faith in Christ to find other employment that would meet their needs.\n"
+" - Pray for places of business that persecute believers to be convicted of this and repent."
+msgstr ""
+
+#: admin/prayer-field-content.php:206
+msgid "Persecution can accelerate movements when it results in greater boldness among believers: \"And there arose on that day a great persecution against the church in Jerusalem, and they were all scattered throughout the regions of Judea and Samaria...\" (Acts 8:1) or it can stamp out new movement beginnings \"...when tribulation or persecution arises on account of the word, immediately he falls away...\" (Matthew 13:21). Today we pray for new disciples and simple churches in this area to stand firm in the face of persecution and for God's protection from persecution that would destroy new Gospel works."
+msgstr ""
+
+#: admin/prayer-field-content.php:210
+msgid "“Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account. Rejoice and be glad, for your reward is great in heaven, for so they persecuted the prophets who were before you.\" (Matthew 5:11-12) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:211
+msgid "Throughout the Muslim world, Christians are falsely accused of worshiping three gods or of teaching that God and the Virgin Mary had a sexual relationship. Christians are reviled because they hold to the truth that salvation comes only through Christ. Today, as we pray Matthew 5:11-12, think of our brothers and sisters in Christ here who are persecuted by their family members, employers, police, and government. Pray for them to courageously rejoice and be glad in the midst of it all. Pray for persecutors to have their hearts softened by Christians' responses to persecution."
+msgstr ""
+
+#: admin/prayer-field-content.php:212
+msgid "We pray today for the believers who are afraid to declare that they stand with Jesus. For those who have been falsely accused of conspiring against their people or of immorality or faithlessness. May they never believe the lie that they are alone. Let them never fall into the spiral of self-pity in the assumption that they are the only ones who have suffered in this way.  Let each one see that Jesus has walked the path of suffering before them, that the prophets before also suffered, that it is an honor and blessing to lift the cross of suffering and follow Jesus."
+msgstr ""
+
+#: admin/prayer-field-content.php:213
+msgid "Father, we pray for those who are persecuting your children. For those who have uttered evil against them falsely. We pray that they will see the good deeds of your children, feel the weight of their sin, turn, repent, and glorify God. Let them see a peace and trust in your children that they cannot understand.  May they long for the confidence in love and redemption that they see in believers. May your gospel be made plain among those who are bringing food to those in prison, those who are testifying in courts, and those who threaten your children in their homes. We ask for life for them, Jesus."
+msgstr ""
+
+#: admin/prayer-field-content.php:214
+msgid ""
+"\"To the present hour we hunger and thirst, we are poorly dressed and buffeted and homeless, and we labor, working with our own hands. When reviled, we bless; when persecuted, we endure; when slandered, we entreat. We have become, and are still, like the scum of the world, the refuse of all things...\" (1 Corinthians 4:11-13) ESV\n"
+"Since the very first church, this has been the experience and reality of believers in many parts of the world. We pray for the church of this place to respond to persecution in the same ways that Paul writes here. Today we stand as the church and ask for God's grace to grant:\n"
+"- blessing to persecutors\n"
+"- endurance in the face of hardship\n"
+"- consolation and encouragement"
+msgstr ""
+
+#: admin/prayer-field-content.php:219
+msgid ""
+"Pray for places of government in this region. Pray for:\n"
+"- compassionate judges to preside over cases against Christians in which they have done no wrong. Pray for God's justice to be upheld and that the judges wouldn't allow false accusations\n"
+"- lawmakers, as they write new laws, to protect human rights\n"
+"- government officials who would refuse bribes and act justly towards all of their citizens, even Christians"
+msgstr ""
+
+#: admin/prayer-field-content.php:223
+msgid ""
+"\"When he was reviled, he did not revile in return; when he suffered, he did not threaten, but continued entrusting himself to him who judges justly. He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed.\" (1 Peter 2:23-24) ESV\n"
+"Jesus, this is not possible in our own strength. Only you can do this for our brothers and sisters facing persecution. May house churches, leaders, and disciples model and then pass on this example to the new churches they start, the new leaders they invest in, and the new disciples they make who will go on to do the same with others."
+msgstr ""
+
+#: admin/prayer-field-content.php:228
+msgid "“You are the salt of the earth, but if salt has lost its taste, how shall its saltiness be restored? It is no longer good for anything except to be thrown out and trampled under people's feet.\" (Matthew 5:13) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:229
+msgid "Most people who lead Muslims to put their faith in Christ talk about how many different conversations, supernatural experiences, and divine appointments the Muslim has before he or she believes. Muslims need to interact with Christians who would be 'salty' in both their words and actions. Pray for Muslims throughout this area to come across Christians who are being the salt of the earth in their daily life, on social media, in evangelistic TV programming, and more."
+msgstr ""
+
+#: admin/prayer-field-content.php:230
+msgid "Oh Jesus, let your children retain their saltiness.  We pray that believers will abide in you, lingering long in your presence, listening to you and speaking to you.  Would you make them more like you?  Let them bring flavor to life and healing and cleansing to souls infected with sin. May the presence of each one of your children change their neighborhoods. Let them preach Christ and him crucified, even if they do so with fear and trembling."
+msgstr ""
+
+#: admin/prayer-field-content.php:231
+msgid "Lord, you see each person wounded by sin in this area.  You know each one that is living a tasteless life that has no meaning because they do not know you.  Have mercy, Lord. Let the lost meet salty ones who know the truth and speak it. We recognize that salt stings even as it brings cleansing and healing. Lord, we pray for the wounded ones who have so far refused your offer of healing through your wounds on the cross.  We pray that they will not settle for the temporal semi-comfort that knows the wound is infected yet refuses to have it cleansed because of the fear of pain and change. Keep calling them to yourself, Jesus. Let them acknowledge their sin and be cleansed by your blood.  Let them taste and see that you are good."
+msgstr ""
+
+#: admin/prayer-field-content.php:232
+msgid "Jesus' parallel teaching on this passage in Mark 9:50 gives an interesting twist, \"Salt is good, but if the salt has lost its saltiness, how will you make it salty again? Have salt in yourselves, and be at peace with one another.” Today, we pray for the church in this place to be at peace with one another. May your Bride be united as believers from different backgrounds work together. May the church be 'salty' as it demonstrates relationships marked by forgiveness, reconciliation, and peace. We pray for churches that would start churches and continue to live at peace with one another."
+msgstr ""
+
+#: admin/prayer-field-content.php:233
+msgid ""
+"Pray for places of religion among these people. Pray for Quranic classes where children go to memorize the Quran and learn the basics of Islam. Pray today for:\n"
+"- children to question what they are memorizing actually means\n"
+"- instructors to also question what they are reciting and teaching and seek to understand what it means\n"
+"- all who have attended these classes and memorized the Quran to have an opportunity to encounter true followers of Jesus who live as 'the salt of the earth'"
+msgstr ""
+
+#: admin/prayer-field-content.php:237
+msgid ""
+"God we declare Colossians 4:6 for believers among this people. \"Let your speech always be gracious, seasoned with salt, so that you know how you ought to answer each person.\"\n"
+"\n"
+"Jesus, please equip believers to talk about their faith in ways that allow them to find people of peace and to ask questions that will be seasoned with salt. Give them clarity to ask the person of peace to invite others into future discussions about God's word."
+msgstr ""
+
+#: admin/prayer-field-content.php:243
+msgid "“You are the light of the world. A city set on a hill cannot be hidden. Nor do people light a lamp and put it under a basket, but on a stand, and it gives light to all in the house. In the same way, let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven.\" (Matthew 5:14-16) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:244
+msgid "Many Muslims equate western culture with Christianity and assume all westerners are Christians. As a result they see evil deeds and immoral behavior done by westerners and attribute it to Christianity. Today, join us in praying for Muslims to observe good works done by true followers of Christ. Pray for Christians to live out James' words, \"Show me your faith apart from your works, and I will show you my faith by my works.\" (James 2:18) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:245
+msgid "A young woman was working with children with disabilities. As she and a young boy drew a picture of a large hand reaching down from bright light into the darkness, the child said, \"I want my picture to be all light, with no darkness at all.\" May she and other believers throughout this region have courage to speak the truth of Jesus.  May fear not paralyze your children, Jesus.  Keep them from lying in action or in word, from pretending to follow Islam when their hearts are surrendered to Jesus as Lord.  Let others see their obedience and long to come into the kingdom of light."
+msgstr ""
+
+#: admin/prayer-field-content.php:246
+msgid ""
+"So many are looking “to the earth, but behold, distress and darkness, the gloom of anguish.”(Isaiah 8:22) ESV Nevertheless, the time of darkness and distress will not go on forever.”...the people who walked in darkness have seen a great light. For those who dwelt in a land of deep darkness, on them has light shone.\" (Isaiah: 9:1,2) ESV\n"
+"Lord, we pray for those in anguish and distress and darkness to see the light of Jesus in his children.  Let them see hope they long for but cannot yet feel.  Light reveals the truth and shows the right path.  May the people of this place see the good works of your children and turn to the light of God."
+msgstr ""
+
+#: admin/prayer-field-content.php:248
+msgid "Jesus said, \"I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.\" (John 8:12) ESV We pray for the church in this land to walk confidently with Jesus, the true light of the world. Pray for Him to empower his church to have the light of life in the darkest of areas."
+msgstr ""
+
+#: admin/prayer-field-content.php:249
+msgid ""
+"Pray for places of education in this area. Pray for universities to be places where:\n"
+"- more searching, discovery, dialogue, and new ideas can be shared amongst students\n"
+"- friends would begin journeys of discovery together about the Bible and what it teaches\n"
+"- Christian students would be the light of the world in their dormitories, classes, and clubs"
+msgstr ""
+
+#: admin/prayer-field-content.php:253
+msgid "Father, may Christians live out the reality that they are the light of the world. We pray for their light to shine before others so that Muslims they interact with at home, in shops, at markets, and in the workplace would see their good works and give glory to our Father who is in heaven. Give your followers in this area replies to questions Muslims ask when they see light in them. Grow their boldness to invite curious Muslims to read the Bible with friends or family and begin to discover the One who is the true Light of the World."
+msgstr ""
+
+#: admin/prayer-field-content.php:257
+msgid "“Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them. For truly, I say to you, until heaven and earth pass away, not an iota, not a dot, will pass from the Law until all is accomplished. Therefore whoever relaxes one of the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven, but whoever does them and teaches them will be called great in the kingdom of heaven. For I tell you, unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven.\" (Matthew 5:17-20) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:258
+msgid "The Islamic doctrine of abrogation means that some verses in the Quran can be \"canceled out\" by later verses. This is contrary to the unchanging nature of God depicted throughout the Bible and in the passage above. \"Because God wanted to make the unchanging nature of his purpose very clear to the heirs of what was promised, he confirmed it with an oath. God did this so that, by two unchangeable things in which it is impossible for God to lie, we who have fled to take hold of the hope offered to us may be greatly encouraged. We have this hope as an anchor for the soul, firm and secure…\" (Hebrews 6:17–19) NIV Today we pray for the people in this place to see the unchanging nature of God, that it is impossible for him to lie, and to make him the anchor for their souls."
+msgstr ""
+
+#: admin/prayer-field-content.php:259
+msgid "Pray that as new believers increase in knowledge and understanding of the Word of God, they will see both the freedom from empty rituals and the fulfillment of the deeper law that reveals Jesus. When those who have come out of Islam read the passages in Leviticus about cleanliness laws or laws of justice or of the priesthood or of sacrifices, may they see beyond the physical to the heart.  Jesus cleanses us. Jesus brings justice and mercy at the cross. Jesus is both the great High Priest and the lamb that was sacrificed so that we can enter the Holy of Holies. True righteousness is born of the holy love of God who loved us first and, in return, we love both God and people."
+msgstr ""
+
+#: admin/prayer-field-content.php:260
+msgid "Father, let the lost recognize that the Scriptures are true. We declare that the Word of the Lord endures forever and we pray against the schemes of the enemy to undermine the truth of God.  Lord, we pray that those who are wondering about the Scripture and looking up things online will find websites that reveal the truth.  Guard them from \"every pretension that sets itself up against the knowledge of God\" (2 Cor 10:5). Would you help them to meet believers who boldly boast in the cross and speak of how Jesus fulfills every promise and prophecy? \"For though we live in the world, we do not wage war as the world does.  The weapons we fight with are not the weapons of the world.  On the contrary they have divine power to demolish strongholds.\" (2 Cor 10: 3-4) ESV Now as we pray, we speak the truth, wielding the Sword of the Spirit, the Word of God, and we expose and strike down the lie that the Scriptures were changed.  God speaks and he cannot lie. He reveals himself to us because he wants us to know him more and more."
+msgstr ""
+
+#: admin/prayer-field-content.php:261
+msgid "Pray for the church, meeting openly or underground, no matter the size, to be filled with sinners who confess that only through the righteousness of Jesus can we be saved. We pray their actions, times of worship and prayer, and lifestyles would be marked by the humble declaration of unity with Jesus' righteousness. As they repent of every man-centered righteousness, may they draw friends and family who don't yet know Christ to want to know more."
+msgstr ""
+
+#: admin/prayer-field-content.php:262
+msgid ""
+"Pray for places of community among this people. Pray for every neighborhood to:\n"
+"- be places where its members would steward and care for the beauty God has made on the earth\n"
+"- have at least one Christian family in it who would model the Law and the Prophets Jesus came to fulfill\n"
+"- have ekklesia (Biblical church) within it that would be pointing everyone to the righteousness we can only have through Christ"
+msgstr ""
+
+#: admin/prayer-field-content.php:266
+msgid ""
+"Lord, we ask for Muslims in this place to see examples of true followers of Christ who:\n"
+"- do not let sin reign in their mortal body, to make them obey its passions\n"
+"- do not present their members to sin as instruments for unrighteousness\n"
+"- do present themselves to God as those who have been brought from death to life, and their members to God as instruments for righteousness (Romans 6:12-13)\n"
+"Stir a hunger amongst Muslims here to want to be brought from death to life and stir people of peace to gather friends and family to understand God's plan of redemption from creation to Christ from the Bible."
+msgstr ""
+
+#: admin/prayer-field-content.php:274
+msgid "“You have heard that it was said to those of old, ‘You shall not murder; and whoever murders will be liable to judgment.’ But I say to you that everyone who is angry with his brother will be liable to judgment; whoever insults his brother will be liable to the council; and whoever says, ‘You fool!’ will be liable to the hell of fire. So if you are offering your gift at the altar and there remember that your brother has something against you, leave your gift there before the altar and go. First be reconciled to your brother, and then come and offer your gift. Come to terms quickly with your accuser while you are going with him to court, lest your accuser hand you over to the judge, and the judge to the guard, and you be put in prison. Truly, I say to you, you will never get out until you have paid the last penny.\" (Matthew 5:21-26) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:275
+msgid "Hunger, thirst, and more often nicotine withdrawals during the Ramadan fast can make people argumentative and hostile in the afternoon hours leading up to the breaking of the daily fast. It is not uncommon to witness fistfights in the bread line. Most people (including Muslims) do not consider themselves as 'bad' people because they've never murdered someone or committed adultery. Jesus challenges this understanding of what makes us 'good' and 'bad' in his teaching in Matthew 5:21-26. Pray for God's mercy to give every person in this area the conviction that even insulting another human makes them guilty before a holy God. Pray for each who experiences this conviction to have the opportunity to hear the Gospel that they can be forgiven through Jesus' death, burial, and resurrection."
+msgstr ""
+
+#: admin/prayer-field-content.php:276
+msgid "\"How dare she take her 'liberty in Christ' to mean she can live like an immoral woman -- going out at night with men, drinking...?\" Ahmed fumed. Though he and his sister were both following Jesus, her actions left him so angry at his sister that he struck her. As Muslims in this area, repent and turn to Christ, we join them in praying for new patterns of anger management and conflict resolution. Pray for brothers and sisters in Christ in this area who remember that their brother has something against them. Pray for them to go, ask for forgiveness, extend forgiveness, and be reconciled to one another today, in Jesus' name."
+msgstr ""
+
+#: admin/prayer-field-content.php:277
+msgid "Lord, we pray for those who are quick to anger and quick to ridicule. Let them see and understand that they cannot control others, nor can they be seen as righteous simply by pointing out the faults of others. We pray for humility and peace. We pray for those who do not know how to forgive or to reconcile with God or others.  Please, God, bring them into connection with believers who have the message of reconciliation. Let them meet with \"Christ's ambassadors,\" who \"implore on Christ's behalf: Be reconciled to God.\" (2 Cor 4: 20)"
+msgstr ""
+
+#: admin/prayer-field-content.php:278
+msgid "Pride and comparison cause deep hurt in the hearts of God's children who are working in the fields and longing for harvest. When hurt leads to anger and bitterness and a refusal to repent or be reconciled, there is division that damages the witness of the gospel. Pray for those who are witnesses of the gospel and for those who believe through the word shared by those witnesses \"that they may all be one ...so that the world may believe that [the Father] sent [Jesus]\" John 17:20-21 May the gospel be clearly declared in humility, repentance, and unity."
+msgstr ""
+
+#: admin/prayer-field-content.php:279
+msgid ""
+"Pray for places of business in this place.\n"
+"\n"
+"Pray for believers who work in environments without any other Christians. Pray for them to model Jesus' teaching about anger and seek to live at peace with their coworkers without compromising their obedience to Jesus.\n"
+"Pray for employers to pursue building work cultures that prioritize respect, esteem, and harmony among employees.\n"
+"Pray for coworkers to desire a better way forward in their work relationships than selfish acts of revenge and backbiting. Pray for them to experience reconciliation with God through Christ that empowers them to pursue reconciliation with others."
+msgstr ""
+
+#: admin/prayer-field-content.php:284
+msgid ""
+"Today, may the people of this land experience the new life Jesus came to give us. May they walk in his transforming power to:\n"
+"- be angry and not sin; not letting the sun go down on their anger\n"
+"- let no corrupting talk come out of their mouths, but only such as is good for building up\n"
+"- let all bitterness and wrath and anger and clamor and slander be put away, along with all malice\n"
+"- be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave us (Ephesians 4:26-32)"
+msgstr ""
+
+#: admin/prayer-field-content.php:292
+msgid "“You have heard that it was said, ‘You shall not commit adultery.’ But I say to you that everyone who looks at a woman with lustful intent has already committed adultery with her in his heart. If your right eye causes you to sin, tear it out and throw it away. For it is better that you lose one of your members than that your whole body be thrown into hell. And if your right hand causes you to sin, cut it off and throw it away. For it is better that you lose one of your members than that your whole body go into hell.\" (Matthew 5:27-30) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:293
+msgid "Mohammed said that it was permitted to have four wives if all were treated equally. He himself had at least 11 wives. Many were widows or prisoners of war. One was very young. This history influences marriages among Muslims all over the world.  Jesus' words in Matthew 19 and Genesis 2 of one man marrying one woman are counter-cultural.  Jesus' standard of holiness and faithfulness reveals the beauty of the sacrificial love Jesus has for the church.  Pray for the truth of the beauty of marriage and faithfulness to be revealed across this land."
+msgstr ""
+
+#: admin/prayer-field-content.php:294
+msgid "\"Pay attention to this. See what Scripture says,\" one woman said to her husband. We were reading this passage together with a new believing couple and it was clear that the wife was addressing the hurt she had experienced.  Pray for believers who fall into old habits to repent quickly and be renewed by the Holy Spirit. Pray for spouses who not only speak the truth, but also forgive. Ask that God strengthen marriages to be a beautiful picture of delight and faithfulness."
+msgstr ""
+
+#: admin/prayer-field-content.php:295
+msgid "\"My husband took the cologne I gave him, went to the neighboring country, and used it to woo and marry another woman.\" Sumayah was crushed and asked what she should do when he came home. Maryam said, \"I was in the car headed to a restaurant with my husband, dressed up with my make-up on, and he rolled down the window to flirt with another woman.\" Pray that each woman in this region would know that they are precious and valuable, made in the image of God. Ask that men would be willing to listen to gentle truthful correction. May God bring hope and healing to marriages by revealing the beauty of Christ's sacrifice."
+msgstr ""
+
+#: admin/prayer-field-content.php:296
+msgid ""
+"We pray for the church of this place to live out 1 Thessalonians 4:3-7. May the church: \n"
+"- know the will of God for them, their sanctification\n"
+"- abstain from sexual immorality\n"
+"- make disciples who know how to control his/her own body in holiness and honor, not in the passion of lust like the Gentiles who do not know God\n"
+"- know that God has not called them for impurity, but in holiness"
+msgstr ""
+
+#: admin/prayer-field-content.php:301
+msgid ""
+"Pray for places of religion.\n"
+"\n"
+"Pray for imams (mosque leaders) to be convicted that sin starts in the heart and to begin to ask questions about how hearts can actually be cleansed and changed.\n"
+"Pray for Muslims as they enter the mosque to be convicted by their sinful thoughts even if it hasn't resulted in sinful actions and to want to find a solution for their shame."
+msgstr ""
+
+#: admin/prayer-field-content.php:305
+msgid ""
+"Jesus, you want to give us better than what the world offers. We pray for you to soften the hearts of Muslim men and women throughout this land to begin to learn about Jesus, his ways, his teachings and to find the good news of 1 John 2:15-17.\n"
+"\n"
+"\"Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him. For all that is in the world -- the desires of the flesh and the desires of the eyes and pride of life -- is not from the Father but is from the world. And the world is passing away along with its desires, but whoever does the will of God abides forever.\""
+msgstr ""
+
+#: admin/prayer-field-content.php:311
+msgid "“It was also said, ‘Whoever divorces his wife, let him give her a certificate of divorce.’ But I say to you that everyone who divorces his wife, except on the ground of sexual immorality, makes her commit adultery, and whoever marries a divorced woman commits adultery.\" (Matthew 5:31-32) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:312
+msgid "Divorce, though taboo, is also common in the Muslim world. Women especially face significant hardship and social shame following a divorce. As we pray through Matthew 5:31-32, let’s reflect on why Jesus condemned the casual approach to divorce in His time. Pray that people in this region will come to know the safety, protection, and fullness that come through a lifelong commitment of love and trust in marriage."
+msgstr ""
+
+#: admin/prayer-field-content.php:313
+msgid "\"Did you hear about Samia and Mahmoud?!”  This sister’s eyes widen with true sorrow at the recent news of a believing couple’s separation, which would very likely end in divorce. Though Mahmoud had walked with Jesus a long time and hheld a stable job, his struggle with drug addiction remained unbroken.  “We just aren’t able to do marriage here … we have so many problems and we just don’t know how to communicate  with each other.”  Selfishness and poor communication is a HUMAN problem, transcending cultures - not just relegated to the Arab world. Yet many of the Islamic cultural practices deeply impact even these dear ones, who have been made ‘new creations.’  Marital strife and divorce rates are high, and the local church often suffers in tandem with their Islamic family members and neighbors."
+msgstr ""
+
+#: admin/prayer-field-content.php:314
+msgid ""
+"“I can’t UN-hear what she said,” Thawraya half spat, and half wept out the words. How could she do this? “We treated her like a daughter; we gave her the upstairs apartment. We’ve given her everything she’s needed! Sure, my son yells, but SHE yells, too!”  By now, the tears were flowing fully and mixing with the sweat pouring down from under her tightly wrapped head covering. She was angry and ashamed. How could her daughter-in-law be so selfish? She could never forgive her, she could never UN-hear the cruel words. “Why can’t girls just patiently endure these days?” She mused as she recalled all the heroic women of her childhood who’d been beaten senseless by their husbands but stuck it out like ‘good women should.’\n"
+"Another woman escaped her urban husband’s violent beatings, arriving at her rural home with her three children in tow, chunks of hair missing from where it had been ripped out the night before. “What did you come running here for?  If he puts bread on your table, what more can you expect?” Her mother scoffed at her bruised frame standing in the doorway, remembering how she herself had been a bride by age 13…."
+msgstr ""
+
+#: admin/prayer-field-content.php:316
+msgid "Pray for both the current and future church in this region to be a place where marriage between believers is honored, protected, and supported. Pray for marriages between believing and unbelieving spouses to persevere in love, grace, humility, and the fruit of the Spirit. May their unbelieving spouses be drawn to Christ through their upright lives. Pray for believers to read, believe, and follow the Bible's teachings on marriage, and may it supersede culture. Pray that marriages in the church would be pictures of Christ's relationship to his Church for the unbelieving world that is watching."
+msgstr ""
+
+#: admin/prayer-field-content.php:317
+msgid ""
+"Pray for places of government.\n"
+"\n"
+"Pray for leaders to write and enforce laws that protect women from divorce and give them rights that will protect them from abusers.\n"
+"Pray for Christians who fear losing their children if they are divorced by Muslim spouses to be strengthened in their faith and not deny Christ.\n"
+"Pray for lawmakers to value marriage, seek to uphold it whenever possible, and protect the rights of victims."
+msgstr ""
+
+#: admin/prayer-field-content.php:322
+msgid "\"But from the beginning of creation, 'God made them male and female.' Therefore, a man shall leave his father and mother and hold fast to his wife, and the two shall become one flesh. So they are no longer two, but one flesh. What therefore God has joined together, let not man separate.' \" (Mark 10:6-9) ESV Jesus, we declare this truth over Christian marriages in this area. We also declare this truth over families that will gather around God's word to discover, share, and obey it. As you draw Muslim families to yourself, Jesus, may the example of your church and the teachings of your Word confirm the power and truth of the Good News. May it result in families turning to Christ together and inviting other families to also follow you."
+msgstr ""
+
+#: admin/prayer-field-content.php:326
+msgid "“Again you have heard that it was said to those of old, ‘You shall not swear falsely, but shall perform to the Lord what you have sworn.’ But I say to you, Do not take an oath at all, either by heaven, for it is the throne of God, or by the earth, for it is his footstool, or by Jerusalem, for it is the city of the great King. And do not take an oath by your head, for you cannot make one hair white or black. Let what you say be simply ‘Yes’ or ‘No’; anything more than this comes from evil.\" (Matthew 5:33-37) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:327
+msgid "Islam teaches that deception under certain circumstances is acceptable, and the effects of this teaching breeds mistrust—of God and of others. But the Bible tells us, \"Do not lie to each other, since you have taken off your old self with its practices and have put on the new self, which is being renewed in knowledge in the image of its Creator\". (Colossians 3:9-10) NIV Pray for people of this area to be people who pursue truth to such an extent that they no longer need to swear in order for people to believe them. May they be able to simply let their 'yes' be ‘yes’ and their 'no' be ‘no’."
+msgstr ""
+
+#: admin/prayer-field-content.php:328
+msgid "\"Lies are very useful sometimes. They smooth things over and make them easier, \" one new brother declared. Another said, \"I forgot to attend my friend's wedding because work went until 11 pm. What should I tell him?\" When a brother said he should simply speak the truth, he did. The next day, the brother received a call saying, \"I told the truth.  My friend's right here with me. He is the witness.\"  Pray that those who have seen lies used to smooth things over temporarily will learn to hate deception and find the freedom that comes from speaking and living in the truth.  May the old mother tongue of lying be silenced, and may each one speak the Spirit language of truth."
+msgstr ""
+
+#: admin/prayer-field-content.php:329
+msgid "While sharing food at a bus stop, one man told another to pick out anything he wanted to eat and assured him that he would cover the bill for them both. The immediate response was, \"Do you swear you will?\" The most common answer would be (translated), \"By God, I will,\" but the believer he was speaking to simply said, \"Yes, I will pay.\"  May those who do not yet believe see the example of believers speaking the truth and be changed. All the vowing and swearing is unnecessary and empty.  We do not have control over the future.  Lord, we pray for this people to be changed by Jesus and speak the truth and learn trust."
+msgstr ""
+
+#: admin/prayer-field-content.php:330
+msgid "In the book of Acts, we see the early church confronted with a serious issue of dishonesty in the story of Ananias and Sapphira (Acts 5). God dealt severely with their deception. His word makes it clear how destructive lying and deception can be to the body of Christ and unity. Pray for churches that can confidently live out Ephesians 4:22-25 in this land to multiply, \"...put off your old self, which belongs to your former manner of life and is corrupt through deceitful desires, and to be renewed in the spirit of your minds, and to put on the new self, created after the likeness of God in true righteousness and holiness. Therefore, having put away falsehood, let each one of you speak the truth with his neighbor, for we are members one of another.\" ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:331
+msgid ""
+"Pray for places of education.\n"
+"\n"
+"Pray for teachers in elementary schools to incentivize honesty and integrity.\n"
+"Pray for the culture of cheating on exams and in schoolwork to be broken and for any Christians who live in this region to be agents of change in exposing how much lying and cheating hurts the liar.\n"
+"Pray for new patterns of giving one's word and keeping one's word to emerge throughout education systems as more people experience and begin to believe the Gospel."
+msgstr ""
+
+#: admin/prayer-field-content.php:336
+msgid "Jesus said to the woman at the well, \"But the hour is coming, and is now here, when the true worshipers will worship the Father in spirit and truth, for the Father is seeking such people to worship him.\" (John 4:23) ESV She then went and told everyone in her town the truth of what she learned about herself, God, and the Messiah. Pray for men and women in this region to be the same and to be transformed by the truth of Jesus."
+msgstr ""
+
+#: admin/prayer-field-content.php:340
+msgid "“You have heard that it was said, ‘An eye for an eye and a tooth for a tooth.’ But I say to you, Do not resist the one who is evil. But if anyone slaps you on the right cheek, turn to him the other also. And if anyone would sue you and take your tunic, let him have your cloak as well. And if anyone forces you to go one mile, go with him two miles. Give to the one who begs from you, and do not refuse the one who would borrow from you. (Matthew 5:38-42) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:341
+msgid "It is surprising when Christians from a Muslim background share their testimony, how often Matthew 5:38-42 is quoted. Jesus' teaching to \"turn the other cheek\" is astonishing to many Muslims, as it presents a perspective on forgiveness and humility that is unfamiliar in their cultural context. Pray for Muslims who have encountered this passage from the Sermon on the Mount to deeply reflect on these words and find the courage to seek a deeper understanding of the One who spoke them. Pray for more people in this place to have the opportunity to hear this teaching and to know it comes from the Injil (New Testament)."
+msgstr ""
+
+#: admin/prayer-field-content.php:342
+msgid "\"He's not too big; you could have taken him,\" an older woman said. A brother had been beaten and stabbed the evening before by someone who had just joined a radical fundamentalist group. She was a neighbor who had come to personally apologize for the injustice. \"It's true,\" the brother replied, \"but then I would be acting in the same way that he did. It would just be another fight.\" It seems unreasonable in the flesh to refuse to return evil with evil, but only love and forgiveness stop the spread of violence and hatred. Pray for the believers among this people to have the courage to radically love those who hurt them."
+msgstr ""
+
+#: admin/prayer-field-content.php:343
+msgid "Sometimes, mercy seems like injustice. If the one who is begging or borrowing seems lazy and \"needs to be taught a lesson,\" should people give them what they are asking for? If the powerful take a tunic by force from the weak, why should the weak run after them to give them their cloak, too? In the kingdom of God, the poor in spirit know that the King himself cares for them. Those who mourn and hunger for righteousness, those with pure hearts, the peacemakers, and the persecuted know that they have received undeserved mercy. They also know when it seems like evil is winning, it is only a mirage.  The King is just and merciful. He himself clothes and feeds his children. He himself suffered persecution and by His wounds, we are healed.  May the people of this land come to trust the King and relinquish the fear based on the lie that they depend only on themselves for care."
+msgstr ""
+
+#: admin/prayer-field-content.php:344
+msgid ""
+"Paul's words to the church in Rome can only be realized by the power of God's Spirit in His Church (Romans 12:17-19). We pray for the church in this region to:\n"
+"- repay no one evil for evil\n"
+"- give thought to doing what is honorable in the sight of all\n"
+"- as far as it depends on them, live peaceably with all\n"
+"- never avenge themselves, but leave it to the wrath of God"
+msgstr ""
+
+#: admin/prayer-field-content.php:349
+msgid ""
+"Places of Community\n"
+"\n"
+"Pray for forgiveness and reconciliation to transform relationships between neighbors in this land as the Gospel of Jesus impacts more people.\n"
+"Pray for Christians who are persecuted by their neighbors to have strength and grace from Jesus to turn the other cheek, to give their cloak, and to walk two miles instead of one.\n"
+"Pray for trust in Jesus' words to go deeper than fear of being taken advantage of by all Christ followers in neighborhoods and community centers among these people."
+msgstr ""
+
+#: admin/prayer-field-content.php:354
+msgid ""
+"Jesus, you perfectly fulfilled the prophecies of Isaiah,\n"
+"\"I gave my back to those who strike,\n"
+"and my cheeks to those who pull out the beard;\n"
+"I hid not my face\n"
+"from disgrace and spitting.\n"
+"But the Lord God helps me;\n"
+"therefore I have not been disgraced;\n"
+"therefore I have set my face like a flint,\n"
+"and I know that I shall not be put to shame.\" (Isaiah 50:6-7) ESV\n"
+"\n"
+"May those who have made You their Lord and Savior in this land find comfort in knowing that You have gone before them in turning the other cheek. Remind them that You stand with them, whether they face literal or metaphorical scorn, offering strength and peace in every trial.\n"
+"\n"
+"May the power of your Spirit draw men and women all over to invite You to be their hope and their honor. May it result in disciples making disciples who make disciples in our generation. Amen."
+msgstr ""
+
+#: admin/prayer-field-content.php:370
+msgid "“You have heard that it was said, ‘You shall love your neighbor and hate your enemy.’ But I say to you, Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven. For he makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust. For if you love those who love you, what reward do you have? Do not even the tax collectors do the same? And if you greet only your brothers, what more are you doing than others? Do not even the Gentiles do the same? You therefore must be perfect, as your heavenly Father is perfect.\" (Matthew 5:43-48) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:371
+msgid "The whole Muslim world continues to watch the war that started between Israel and Gaza on October 7, 2023. Emotion runs high. Hatred for the enemy is strong. Only Jesus' teaching that we read in Matthew 5:43-48 and the transformation He brings through His Spirit can turn hatred into love. Today, as you pray for this people, beg God that Christians who live there would live out this teaching and for Muslims to be convicted by it."
+msgstr ""
+
+#: admin/prayer-field-content.php:372
+msgid "After suffering in prison, dignity and bones were both broken because of declaring allegiance to Jesus, and it was hard for Simon to forgive. \"They don't deserve to be forgiven. They need someone to come in and wipe them out. I'm not Jesus. I'm not the sacrificial lamb. He is.\" It is a natural fleshly reaction to want to pay back evil for evil, to love only those who love us. We hear these words with compassion and understanding. But Jesus, we ask for supernatural love that forgives even before there is repentance. We know that this does not ignore or excuse the sin. Forgiveness declares the power of the blood of Jesus and the glory of His grace."
+msgstr ""
+
+#: admin/prayer-field-content.php:373
+msgid "\"This verse makes no sense,\" Sophia said when her friend told her that God asks us to love our enemies. She was angry about the suffering in Palestine, angry at the countries that seemed to have power and would not help.  Sophia continued, \"It's impossible. Should we love evil?\" O Jesus, we know that you paid a great and terrible cost for the evil of the world when you allowed them to pound nails into your hands and feet and lift you up and expose you before the world. You do not love evil. You defeated evil. And you are broken-hearted at the hatred between the precious people you made in your own image. O Jesus, let Sophia and those like her see that to love our enemy is to defeat evil. Those in slavery to sin always hurt others. Love is the most powerful weapon of freedom."
+msgstr ""
+
+#: admin/prayer-field-content.php:374
+msgid "May the existing church and the future church in this region live out Romans 12:20-21, \"...if your enemy is hungry, feed him; if he is thirsty, give him something to drink; for by so doing you will heap burning coals on his head. Do not be overcome by evil, but overcome evil with good.” ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:375
+msgid ""
+"Places of Business\n"
+"\n"
+"Pray for Christian entrepreneurs in this country to live out this teaching with their competitors and for those watching to be impressed by the love Christians have for others.\n"
+"Pray for employees all over this country to see how little it costs to love people who love you or who you hope will advance your agenda. Pray for Christians to model love for one's enemies in the workplace and for nonbelievers to be convicted by selfless love."
+msgstr ""
+
+#: admin/prayer-field-content.php:379
+msgid ""
+"God, you pour out blessings (sun and rain, for example) on those who hate you, reject your love, and despise your message.\n"
+"\n"
+"We pray for simple churches in every neighborhood to form and for their lives to be marked by love for their enemies and blessing to those who may never repay them. Allow such costly love and sacrifice to make Muslims ask questions about Jesus' teaching in the Injil (New Testament) and begin to read His Word."
+msgstr ""
+
+#: admin/prayer-field-content.php:385
+msgid "“Beware of practicing your righteousness before other people in order to be seen by them, for then you will have no reward from your Father who is in heaven. Thus, when you give to the needy, sound no trumpet before you, as the hypocrites do in the synagogues and in the streets, that they may be praised by others. Truly, I say to you, they have received their reward. But when you give to the needy, do not let your left hand know what your right hand is doing, so that your giving may be in secret. And your Father who sees in secret will reward you.\" (Matthew 6:1-4) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:386
+msgid "Zakat, one of the five pillars of Islam, requires Muslims to donate a set percentage of their wealth each year to Muslim charities. The New Testament teaches Christians to give generously from the heart as opposed to a set percentage. Pray for the people of this area to be challenged by the contrast between a religious rule and a heart posture and to want to understand more about the \"new heart\" that the Bible teaches about. (Ezekiel 36:26)"
+msgstr ""
+
+#: admin/prayer-field-content.php:387
+msgid "As new believers follow the example of the early church's generosity (Acts 2), may they believe their Father sees what is done in secret and not fall into old patterns of trying to win the love and favor of God. Some believers who have come out of Islam may be paralyzed by remembering the past requirements and want to break free from obligatory giving to win points with God. Pray that each believer will give and will know they are already loved, already forgiven. Let them give freely before the eyes of the Father."
+msgstr ""
+
+#: admin/prayer-field-content.php:388
+msgid "When the burden of trying to give enough is too heavy, when the need to appear righteous seems tremendously important but impossible, may those who stagger beneath these loads come to the cross. Let them take up the yoke of Jesus, who sees the heart and walks beside them.  We pray, God, that these precious ones will know the living God sees them and that they will hear the truth from believers."
+msgstr ""
+
+#: admin/prayer-field-content.php:389
+msgid "Lord, we pray for Your church to repent from hypocrisy.  Whenever Your children fall into giving as a way to be seen by others, let them be grieved by their sin and humbly confess it before others.  May they be generous and faith-filled, knowing that you see and there is no need for others to see.  Strip away the idol of affirmation and make each one live to give the Father joy."
+msgstr ""
+
+#: admin/prayer-field-content.php:390
+msgid ""
+"Places of Government\n"
+"\n"
+"Ask God to convict government leaders who only do 'righteous' deeds to gain favor with the electorate.\n"
+"Pray for Islamic government leaders to be convicted of their own hypocrisy and for it to lead them on a journey to Christ and begin to read the Bible.\n"
+"Pray for Christians in this region to model giving in secret to the needy and for it to challenge and convict those who accidentally find out these humble ways."
+msgstr ""
+
+#: admin/prayer-field-content.php:395
+msgid ""
+"May the same words be true of reproducing churches and disciples in this region as was written about the reproducing church in Macedonia:\n"
+"\n"
+"\"We want you to know, brothers, about the grace of God that has been given among the churches of [this people], for in a severe test of affliction, their abundance of joy and their extreme poverty overflowed in a wealth of generosity on their part. For they gave according to their means, as I can testify, and beyond their means, of their own accord...\" (2 Corinthians 8:1-3) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:401
+msgid "“And when you pray, you must not be like the hypocrites. For they love to stand and pray in the synagogues and at the street corners, that they may be seen by others. Truly, I say to you, they have received their reward. But when you pray, go into your room and shut the door and pray to your Father who is in secret. And your Father who sees in secret will reward you. And when you pray, do not heap up empty phrases as the Gentiles do, for they think that they will be heard for their many words. Do not be like them, for your Father knows what you need before you ask him.\" (Matthew 6:5-8) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:402
+msgid "Muslims and Christians often use the same Arabic word for \"prayer\". The meanings of that word, however, could not be more different. Islamic salat 'prayer' describes the memorized recitations that Muslims must speak and the motions they must go through five times a day. Christian 'prayer' describes a two-directional conversation with God where Christians humbly approach the throne of grace confidently to present requests and praise. They listen to God and thus are transformed. Today, we ask for Muslims to have the opportunity to be prayed for by a Christian and for them to have a divine encounter with God through it."
+msgstr ""
+
+#: admin/prayer-field-content.php:403
+msgid "Father, we ask that you teach your children to linger before you in the quiet place. Jesus, strengthen your disciples to follow your example of withdrawing to talk to and listen to the Father. Teach the believers of this region to listen as they pray. May they listen to audio Scripture or read your word and wait before you, asking you to breathe alive your Word to bring conviction or encouragement or instruction, asking you to help them know your heart more.  Spirit, interpret groaning prayers of afflicted souls (Romans 8). Help each child to simply come to their Father and ask."
+msgstr ""
+
+#: admin/prayer-field-content.php:404
+msgid "Cleanse us and the people of this place from self-righteousness. We confess the idol of approval that so many try to carry. In Islam, some look with approval on the dark patch of callous on the foreheads of old men who faithfully put their foreheads to the ground five times a day. Others admire those who go to the mosque for communal prayer, even in the early dawn hours (the fajr). Forgive those who look to the eyes of people for affirmation. We pray, Holy Spirit, that you would awaken hearts to see the holiness of God, to recognize the utter uselessness of any self-righteousness.  May the love of the Father penetrate the darkness. Let each one see that you already know their needs before they ask, and you are holding out your arms so that they can come and receive your righteousness through the blood of Jesus."
+msgstr ""
+
+#: admin/prayer-field-content.php:405
+msgid "Holy Spirit, when believers meet together to pray, let them pray with one Spirit. Let them \"lift up voices together\" and remember your words. (Acts 4: 24-26) Let them simply ask together for boldness in preaching, for miraculous signs and wonders to be done in the name of Jesus. (v. 30)  Shake their meeting places; fill them, Holy Spirit. Let there be no comparison or posturing to try to sound spiritual. Let your church pray with faith that you know what we need before we ask."
+msgstr ""
+
+#: admin/prayer-field-content.php:406
+msgid ""
+"Places of Religion\n"
+"\n"
+"Pray for those who attend mosques all over this land today to question their motives for going to pray. Is it because of genuinely wanting to be close to God, or is it for the praise of men? Pray for these questions and honest answers to stir their hearts to ponder the real purpose of prayer.\n"
+"\n"
+"Pray for those in mosques today to stop and think about the words they mindlessly repeat (often without knowing even the meaning of the Arabic words) and to wonder why they've never questioned the meanings or why God 'requires' it from them. Pray for curiosity to grow among them about Christian prayer and an openness to seek answers from Christians or Christian media."
+msgstr ""
+
+#: admin/prayer-field-content.php:411
+msgid ""
+"Let's pray Paul's prayer for the Ephesian church (Ephesians 3:14-19) over the people of this area:\n"
+"\n"
+"Father, we bow our knees before you. Every family in heaven and on earth is named by You. According to the riches of Your glory, may You grant the people of this region to be strengthened with power through Your Spirit in their inner being.\n"
+"\n"
+"We pray and ask that Christ would dwell in their hearts through faith:\n"
+"- not through works\n"
+"- not through empty motions\n"
+"- not through traditions and superstitions\n"
+"\n"
+"May they be rooted and grounded in your love. Give them the strength to comprehend, with all of us saints, the breadth and length and height and depth of your love.\n"
+"\n"
+"We pray for men, women, old, young, religious, atheist, skeptic, rich, poor, and every segment of society to know the love of Christ that surpasses knowledge. That they may be filled with all the fullness of God."
+msgstr ""
+
+#: admin/prayer-field-content.php:426
+msgid "\"Pray then like this: “Our Father in heaven, hallowed be your name. Your kingdom come, your will be done, on earth as it is in heaven. Give us this day our daily bread, and forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation, but deliver us from evil. For if you forgive others their trespasses, your heavenly Father will also forgive you, but if you do not forgive others their trespasses, neither will your Father forgive your trespasses.\" (Matthew 6:9-15) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:427
+msgid "In Islam, God has 99 names–such as All-Merciful, The Beneficent, and The Source of Peace – but none of those names is Love. Father God, who reveals yourself as the God of Love throughout the Bible, please reveal yourself to Muslims in this region with your true nature."
+msgstr ""
+
+#: admin/prayer-field-content.php:428
+msgid "Father, what a gift it is to be called your children. May the believers in this place know their identity as your beloved adopted ones and speak your name with reverent love. We ask for hearts of surrender that boldly pray for your kingdom to come on this earth. We believe that you give us what we need.  May each one rise daily to gather fresh bread, a new revelation from the Spirit. Let your children be known as those who forgive and choose the path of life because they have been forgiven. Teach your people to pray and linger in your presence, listening, trusting, and speaking honestly to you."
+msgstr ""
+
+#: admin/prayer-field-content.php:429
+msgid "Praying is speaking to God, our Father in heaven. Please let Muslims see that you long for them to believe in Jesus and have the right to be called children of God. (Jn 1) Praying includes surrender -- knowing that God is God and we are not. May those in this place surrender and ask for your will to be done. When we pray, we recognize our dependence on God and our inability to satisfy or rescue ourselves. May the people here turn their eyes to you and ask for daily bread. Prayer includes repentance. Let Muslims turn from Mohammed, from Islam, from self, from any other idol, and turn to God through Jesus."
+msgstr ""
+
+#: admin/prayer-field-content.php:430
+msgid ""
+"It is not uncommon for Muslims who turn to Christ to lose their jobs and their family support system. We pray, Lord, for all believers to be a part of a reproducing spiritual family that will look to meet one another's needs for daily bread.\n"
+"\n"
+"We also pray for more families to be drawn to Christ together. We ask for men and women of peace who would lead their families to read and discover the truth of the Bible and to make corporate decisions to follow Christ -- diminishing the chances of new believers being kicked out of homes while increasing chances of becoming home churches instead. We pray for these families to have countless testimonies of God's provision of daily bread."
+msgstr ""
+
+#: admin/prayer-field-content.php:433
+msgid ""
+"Places of Education\n"
+"\n"
+"Pray for God's kingdom to come, His will be done in daycares in this place today as it is in heaven.\n"
+"Pray for God's kingdom to come, His will be done in elementary school classrooms and in after-school tutoring programs today as it is in heaven.\n"
+"Pray for God's kingdom to come, His will be done in the gathering places where high school students meet in between classes in this place today as it is in heaven"
+msgstr ""
+
+#: admin/prayer-field-content.php:438
+msgid ""
+"The Gospels are filled with clear warnings that extending forgiveness is an essential outcome of receiving God's forgiveness. Today, we pray and ask for believers in this place to receive power from God's Spirit to forgive those who have wounded them in the past:\n"
+"- pray for them to walk in freedom from wounds from their childhood\n"
+"- pray for them to walk in forgiveness toward other believers who have hurt them\n"
+"- pray for them to show forgiveness to those who persecute and insult them for their faith\n"
+"\n"
+"Pray for the lost of this area to see the powerful testimony of forgiveness in the lives of Christians and for it to lead families and groups of friends to want to know the source of such life-transforming freedom."
+msgstr ""
+
+#: admin/prayer-field-content.php:447
+msgid "“And when you fast, do not look gloomy like the hypocrites, for they disfigure their faces that their fasting may be seen by others. Truly, I say to you, they have received their reward. But when you fast, anoint your head and wash your face, that your fasting may not be seen by others but by your Father who is in secret. And your Father who sees in secret will reward you.\" (Matthew 6:16-18) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:448
+msgid "Muslims and Christians use the same Arabic word for \"fasting.\" And similar to what we learned yesterday about prayer, the meanings are fundamentally different. Muslim fasting is rigidly defined as no food, water, sex, or smoking from dawn to dusk. Christian fasting takes on many more forms. Muslim fasting is enforced (or broadly promoted) in Muslim countries during Ramadan. Jesus taught, \"But when you fast, anoint your head and wash your face, that your fasting may not be seen by others but by your Father who is in secret....\" (Matthew 6:16-18). Today, we pray that Muslims will come across Jesus' teachings about fasting in the Sermon on the Mount and be challenged to continue investigating His teachings."
+msgstr ""
+
+#: admin/prayer-field-content.php:449
+msgid "Jesus, thank you for teaching us that admiration of others is a poor reward for fasting. Father, thank you for seeing what is in secret.  Nothing is hidden from you.  Please help believers who have come out of Islam not to reject fasting because it reminds them of Islam. Let them instead see the example and words of Jesus that call us to fast. \"But the time will come when the bridegroom will be taken from them, and on that day they will fast.\" (Mark 2:20) Lord, we pray that your children will fast, longing for the day that the bridegroom comes to bring them to the place he has prepared for them. May believers be satisfied only in eating the bread of Jesus."
+msgstr ""
+
+#: admin/prayer-field-content.php:450
+msgid "May all who fast to be seen by others find their fast empty. Thank you, Father, for seeing the thoughts and motives of the heart. For those who are simply being obedient to their parents or culture, awaken them from their slumber; open their eyes to see God. For those who deeply long to please God but do not know who He is, please let them meet a believer who speaks of Jesus or read the Gospel online. We pray for true fasting that hungers to know God as revealed in Jesus Christ by His Spirit."
+msgstr ""
+
+#: admin/prayer-field-content.php:451
+msgid ""
+"We pray for the church among this people group to be an example of true fasting that pleases God (Isaiah 58:6-7):\n"
+"- loosening the bonds of wickedness in their own lives and inspiring the lost around them to loosen their own bonds of wickedness\n"
+"- letting the oppressed go free and breaking every chain\n"
+"- sharing their bread with the hungry\n"
+"- bringing the homeless and poor into their homes\n"
+"- covering the naked with clothing\n"
+"\n"
+"As believers do this, multiply disciples, leaders, and churches who live these verses out for God's glory and for the growth of His church in this place."
+msgstr ""
+
+#: admin/prayer-field-content.php:459
+msgid ""
+"Places of Community\n"
+"\n"
+"Pray for the communal places where Muslims gather to break the fast today. Pray for families and friends who gather together to have meaningful conversations that would stir a spiritual hunger among them for more.\n"
+"Pray for the families that gather around tables after a day of religious fasting to feast on food and, unfortunately, relational strife, to ponder what the fruit of fasting should be. Pray for opportunities for those with soft hearts to meet a Christian who could share about Christian fasting."
+msgstr ""
+
+#: admin/prayer-field-content.php:463
+msgid ""
+"We pray the promise of the rest of Isaiah 58:8-12 over this land.\n"
+"\n"
+"May the people's light break forth like the dawn and healing spring up speedily in this land. We pray for righteousness to go before your people here, and for the glory of the Lord to be their rear guard. We pray for many to call upon you and for you to answer. May many in this land, even today, cry to you, and you will say, 'Here I am.'\n"
+"\n"
+"Lord, guide the people of this land continually and satisfy their desire in scorched places. Make their bones strong. May the people of this place be like a watered garden, like a spring of water whose waters do not fail.\n"
+"\n"
+"\"And your ancient ruins shall be rebuilt; you shall raise up the foundations of many generations.\" (Isaiah 58:12) Lord, we pray for many spiritual generations of disciples (disciples who make disciples who make disciples who make disciples) in this land. Amen."
+msgstr ""
+
+#: admin/prayer-field-content.php:473
+msgid "“Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal, but lay up for yourselves treasures in heaven, where neither moth nor rust destroys and where thieves do not break in and steal. For where your treasure is, there your heart will be also. The eye is the lamp of the body. So, if your eye is healthy, your whole body will be full of light, but if your eye is bad, your whole body will be full of darkness. If then the light in you is darkness, how great is the darkness! No one can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and money.\" (Matthew 6:19-24) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:474
+msgid "Most Muslims (and many Christians) believe that material wealth is evidence of being favored by God. Therefore, they believe the converse is also true: lack of material wealth is evidence of not being favored by God. In this passage, Jesus encourages His followers to invest their lives in laying up treasures in heaven and not material wealth. Pray for Muslims today to ponder if they are serving God or money. Ask that the Holy Spirit would convict them that serving money ultimately leads to bondage and death."
+msgstr ""
+
+#: admin/prayer-field-content.php:475
+msgid "May the believers of this place fix their eyes on Jesus. As they gaze on his bright glory, may the light of Christ enter their eyes and fill their whole bodies with light. When the things of earth begin to draw their attention away from the eternal unseen, remind each one that the treasures of this earth will rust, decay, be destroyed. To treasure temporal things is like trying to capture waves as they lap the sand. Impossible. Futile. Exhausting. Lord, we pray for the parents who are overwhelmed trying to get enough money to feed their children, to help them learn. Let them take your hand each morning as they wake and go to work and delight in your presence as they trust in you to care for them and their loved ones."
+msgstr ""
+
+#: admin/prayer-field-content.php:476
+msgid "\"You need to come and tell us more of Jesus. I can feel my heart soar with you through the stories. We need to set aside time daily to really understand. Pray that we will enter the path of faith.\" After speaking these words sincerely, Mehdi started a new business venture that consumed his time. He truly wanted to learn, but the stuff of earth was pulling for his attention.  Pray for others like him who hunger for righteousness not to fix their eyes on the things that are seen but rather on the eternal. May we not have divided hearts."
+msgstr ""
+
+#: admin/prayer-field-content.php:477
+msgid "Jesus said, \"The Kingdom of God is like treasure hidden in a field, which a man found and covered up. Then in his joy he goes and sells all that he has and buys that field.\" (Matthew 13:44) We pray for believers in this area who have given up everything to gain Christ, their treasure. Bless them, Lord, for this, and fill them with your joy. Encourage them that their choice to store up treasure in heaven is not in vain. Pray for simple churches to form and reproduce, which are made up of believers who serve God and not money. Protect your church from the love of money and give wisdom for the wise use of it."
+msgstr ""
+
+#: admin/prayer-field-content.php:478
+msgid ""
+"Places of Business\n"
+"\n"
+"Pray for God to raise up Christian business owners whose treasure is in heaven, not on earth. Pray that their values of serving God, and not money, would be a testimony to nonbelieving employees. Pray for Discovery Bible Studies to form in workplaces as nonbelievers witness the impact of living as Jesus describes in Matthew 6:19-24.\n"
+"Pray for Christian business owners to be blessed by God for choosing to serve Him above financial gain."
+msgstr ""
+
+#: admin/prayer-field-content.php:482
+msgid ""
+"Jesus told the story of a widow who put two small coins into the offering box (Mark 12:41-44). He said she put more in than any of the wealthy people. \"For they all contributed out of their abundance, but she out of her poverty has put in everything she had, all she had to live on.\" This widow chose to put her treasure in heaven, not on earth.\n"
+"\n"
+"God, we do not see things the way you do. Speak encouragement to every believer from a Muslim background who, like this widow, has put everything he/she owns on the line to follow you. Multiply their faith. Give them boldness and wisdom in how to share their testimony in compelling ways and for you to draw streams of multiplying disciples from faith-filled obedience like this."
+msgstr ""
+
+#: admin/prayer-field-content.php:488
+msgid "“Therefore I tell you, do not be anxious about your life, what you will eat or what you will drink, nor about your body, what you will put on. Is not life more than food, and the body more than clothing? Look at the birds of the air: they neither sow nor reap nor gather into barns, and yet your heavenly Father feeds them. Are you not of more value than they? And which of you by being anxious can add a single hour to his span of life? And why are you anxious about clothing? Consider the lilies of the field, how they grow: they neither toil nor spin, yet I tell you, even Solomon in all his glory was not arrayed like one of these. But if God so clothes the grass of the field, which today is alive and tomorrow is thrown into the oven, will he not much more clothe you, O you of little faith? Therefore do not be anxious, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’ For the Gentiles seek after all these things, and your heavenly Father knows that you need them all. But seek first the kingdom of God and his righteousness, and all these things will be added to you. Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble.\" (Matthew 6:25-34) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:489
+msgid "Islam teaches that God is unknowable, and as a result, many feel like God is distant. We know the truth is that God Almighty wants an intimate relationship with His followers because He is a good Father who knows the hairs on our heads (Luke 12:7). Lord, let all new followers of Christ be filled with joy at knowing the intimacy of God, who calls us \"beloved\"."
+msgstr ""
+
+#: admin/prayer-field-content.php:490
+msgid "A sparrow flew through the open window of her kitchen and began to eat forgotten crumbs from the floor. Hannan listened to this passage joyfully, believing that God had sent the sparrow to remind us of these verses. A new baby was going to be born soon, and she wondered if he would have any birth defects. Her in-laws were coming to visit; her husband was constantly busy, and she was having a hard time sleeping.  \"Today has enough trouble. God knows what we need.\"  Pray for new believers in this area, that each one would learn the sweetness of trusting in the care of God."
+msgstr ""
+
+#: admin/prayer-field-content.php:491
+msgid "Anxious hearts come from inaccurate perceptions of the love, goodness, and power of God. Father, we pray for the people here to look at creation and see that you care even for birds and flowers.  Send your children to speak to those who do not yet have faith, who wonder if God really sees them or really cares. Let them hear and believe that the Father intimately knows their every need, their every sorrow. Reveal to them that they are valuable to God because he made them and chose to die to offer them redemption."
+msgstr ""
+
+#: admin/prayer-field-content.php:492
+msgid ""
+"May the church in this region, both current and future, live out Philippians 4:4-7:\n"
+"\n"
+"May she 'rejoice in the Lord always.'\n"
+"May her 'reasonableness be known to everyone' -- including Muslim neighbors, coworkers, friends, and employers.\n"
+"May she 'not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God.'  -- and may nonbelievers see God answer those requests for His glory.\n"
+"May 'the peace of God, which surpasses all understanding, guard your hearts and your minds in Christ Jesus.'"
+msgstr ""
+
+#: admin/prayer-field-content.php:498
+msgid ""
+"Places of Government\n"
+"\n"
+"Throughout the Muslim world, there are many displaced people. In some places, it's refugees from other war-torn and famine-plagued areas. In other places, there are many internally displaced people. We pray for government officials to not hinder believers, either foreign or national, who seek to serve these people and help meet their needs for food, water, and clothing. We pray for the church in this people group to respond with the hands and feet of Jesus to those who daily ask, 'What shall we eat?' or 'What shall we drink?' or 'What shall we wear?'  May their being in a new land give refugees opportunities to meet true followers of Christ. May these actions lead to Discovery Bible Studies and simple churches to be started in refugee camps and neighborhoods where refugees reside. We pray for just government leaders who will protect the basic human rights of these refugee peoples."
+msgstr ""
+
+#: admin/prayer-field-content.php:501
+msgid ""
+"Today, we pray for people of this land to look at the birds of the air. Let them see how our Heavenly Father takes care of them and may they seek out ways to know more about Him through reading the Bible or talking to a Christian.\n"
+"\n"
+"May they consider the lilies of the field and trust in God's provision for their children, parents, spouses, and finances.\n"
+"\n"
+"In the midst of a time with unprecedented numbers of people suffering from anxiety, pray for people here to experience healing and freedom from anxiety, panic attacks, sleep paralysis, and crippling stresses and fears."
+msgstr ""
+
+#: admin/prayer-field-content.php:509
+msgid "“Judge not, that you be not judged. For with the judgment you pronounce you will be judged, and with the measure you use it will be measured to you. Why do you see the speck that is in your brother's eye, but do not notice the log that is in your own eye? Or how can you say to your brother, ‘Let me take the speck out of your eye,’ when there is the log in your own eye? You hypocrite, first take the log out of your own eye, and then you will see clearly to take the speck out of your brother's eye. Do not give dogs what is holy, and do not throw your pearls before pigs, lest they trample them underfoot and turn to attack you.\" (Matthew 7:1-6) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:510
+msgid "Judgment and hypocrisy are core to all humanity's sinful nature. Muslims are no exception. We all quickly try to pull the speck out of our neighbor's eye while a log pokes out of our own. Today, there will be people who will judge a woman for not wearing a proper hijab (Islamic head covering) while spreading hurtful gossip and lies about a neighbor. There will be people who will condemn someone for drinking alcohol while stealing money from an employer. Pray for people here to be convicted of their own hypocrisy and to turn to Christ for forgiveness and new hearts."
+msgstr ""
+
+#: admin/prayer-field-content.php:511
+msgid "Jesus, you long for us to see. Sin clouds our sight. We see one another through eyes of judgment, forgetting that we have been forgiven. Lord, please let us and the believers of this land bow before you in repentance for cleansing. Let us see, and then, as we lovingly correct our brothers and sisters, let us do so in humility, asking for them to also correct us when we cannot see"
+msgstr ""
+
+#: admin/prayer-field-content.php:512
+msgid "It takes tremendous humility to accept correction with grace. It is especially hard when someone declares something that disagrees with the words of grandparents and parents. When the Muslims in this area hear that Jesus really did die to rescue humanity and rise to defeat death, may they not stumble over the cross. Let them receive the holy pearls of truth with joy and not trample them or be angry at being judged or corrected."
+msgstr ""
+
+#: admin/prayer-field-content.php:513
+msgid "Pray for the church of this land to \"put away all malice and all deceit and hypocrisy and envy and all slander. Like newborn infants, long for the pure spiritual milk, that by it you may grow up into salvation-- if indeed you have tasted that the Lord is good.\" (1 Peter 2:1-3) As the church puts away these things, may nonbelieving onlookers be drawn to know the source of their new way of life. We pray for groups of seekers to come together around God's Word and to have opportunities to taste and see that the Lord is good."
+msgstr ""
+
+#: admin/prayer-field-content.php:514
+msgid ""
+"Places of Religion\n"
+"\n"
+"As Muslims walk into mosques today, we pray for them to be reminded of any judgmental attitudes and hypocritical ways in them. Only the Holy Spirit can convict of sin and righteousness. We pray for God to graciously convict their hearts and put them on a path of wanting to understand the teachings of the Messiah.\n"
+"\n"
+"We pray for those who will go to the mosque to listen to the Koran be read tonight. When they hear judgmental words being said by those around them, let it unsettle their hearts and cause them to wonder if there's another way. Pray for curiosity to grow and for believers to be ready to respond to those who want to take logs out of their own eyes."
+msgstr ""
+
+#: admin/prayer-field-content.php:519
+msgid ""
+"\"Therefore do not pronounce judgment before the time, before the Lord comes, who will bring to light the things now hidden in darkness and will disclose the purposes of the heart. Then, each one will receive his commendation from God.\" (1 Corinthians 4:5) ESV\n"
+"\n"
+"Only God sees the heart. We do not. Free Christians in this land from the pressure to read other's motives and hearts. Give each one a deep trust in the Lord's judgment and timing. Help believers to lean towards grace, believing the best, and trusting God to separate the wheat from the tares (Matthew 13:24-30). As new leaders emerge for simple churches, give them humility and godly love to shepherd their church towards holiness and away from hypocrisy."
+msgstr ""
+
+#: admin/prayer-field-content.php:525
+msgid "“Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened. Or which one of you, if his son asks him for bread, will give him a stone? Or if he asks for a fish, will give him a serpent? If you then, who are evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!\" (Matthew 7:7-11) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:526
+msgid "\"I Dared to Call Him Father\" by Bilquis Sheikh recounts the story of a Muslim woman from Pakistan who turned to Christ. The title captures how shocking it is for Muslims to call God \"Father\". Today as you pray these verses for this place, consider what comfort you take in knowing God as Father and imagine what your life might be like without this reality. Ask God to help Christians from a Muslim background to continue to grow in knowing God as their Father. Ask for God to stir curiosity amongst Muslims to want to know more about God as our Heavenly Father."
+msgstr ""
+
+#: admin/prayer-field-content.php:527
+msgid "“I just don’t know if I can do it,” Fouad shared, his head in his hands.  They were only recently married, but more than nine months past the honeymoon, their Muslim family members were starting to drop not-so-subtle hints that everyone was waiting for an announcement.  Fouad is a first-generation follower of the Messiah, and his traumatic childhood and poor relationship with his earthly father had not only impacted his ability to trust his Heavenly Father, but the thought of having children of his own was terrifying.  His earthly father did NOT give him ‘good gifts’ as he recalled black magic and curses and beatings and lies. How could he change this?  What if he wasn’t enough?  How could he give something that he himself had never seen nor received?  Fouad asked God, sought the Lord, and knocked on Jesus’ door… and he is now a humble, model father raising his child in a brand new Way."
+msgstr ""
+
+#: admin/prayer-field-content.php:528
+msgid "Hamza kicked the ball gently toward little Ahmed.  He was a good little player, and so handsome too!  Hamza’s father-heart swelled with pride as he took his son’s hand to get changed for evening prayers.  He could hear the pre-prayer reading of the Quran echoing from the neighborhood minaret, and tonight would be special. Ramadan always was, but tonight, Ahmed would come with him.  His wife kissed their son on the top of his Islamic skull cap. “Mashallah,” father and son both whispered, beaming with pride as they took off hand in hand down the street, joining other men and boys making their way to the post-iftar (fast-breaking meal) evening of Quranic readings and prayers.  Ahmed’s little prayer rug started to slip from under his small right arm, where he’d tucked it securely.  Hamza quickly caught it and looked into his big brown eyes, his face pivoting to one of concern.  “I would do anything for this boy,” Hamza thought as they continued their walk to the mosque, “But what if I don’t know what to do?  The world we live in is becoming more secular. What if he doubts his faith or pulls away from the family?” The thought of his OWN doubts made him shudder. “Ask, seek, knock….” How could he show his son the right way when he himself was secretly so unsure?"
+msgstr ""
+
+#: admin/prayer-field-content.php:529
+msgid "May the church in this region ask, seek, and knock on behalf of the multitudes of Muslim peoples that surround them. Give them ideas, next steps, and vision for how they can fruitfully engage lost people, find people of peace, and help start Discovery Bible Studies. Equip your church to make disciples who do the same -- ask, seek, and knock on behalf of those who don't know you yet. For every believer who continues to ask God to intervene on behalf of their lost family members, give them confidence and faith that their Heavenly Father wants to give good gifts. Give them faith that you may want to use their testimony as part of the way you bring their family members into the Kingdom."
+msgstr ""
+
+#: admin/prayer-field-content.php:530
+msgid ""
+"Places of Education\n"
+"\n"
+"- Pray for students at primary schools in this region who do not receive good gifts from their fathers but rather receive abuse, humiliation, and anger. Protect them. We pray for them to have access to one day learn that they have a Heavenly Father who wants to give them good gifts.\n"
+"- Pray for students at universities who come from homes where they had good fathers but still feel a longing for more.\n"
+"- Pray for God to call professors and teachers to Himself who will get jobs in communities that have little Christian presence. Pray for their trust in their heavenly Father to give them open doors to share the Gospel with families and to start Bible studies among them."
+msgstr ""
+
+#: admin/prayer-field-content.php:535
+msgid "\"Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shadow due to change.\" (James 1:17) May every blessing and every good thing believers in this region receive give them the opportunity to praise God and to share about His unchanging nature with Muslims around them. May believers who were raised by abusive and manipulative parents find healing in their heavenly Father. May their new identities as children of God grow confidence in them to wisely and winsomely share with those around them. Grow their faith that God will lead them to men and women who would be compelled to not only listen to their message but would share it with others."
+msgstr ""
+
+#: admin/prayer-field-content.php:539
+#: migrations/0000-initial.php:47
+#: migrations/0000-initial.php:62
+msgid "“So whatever you wish that others would do to you, do also to them, for this is the Law and the Prophets. Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many. For the gate is narrow and the way is hard that leads to life, and those who find it are few.\" (Matthew 7:12-14) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:540
+#: migrations/0000-initial.php:48
+#: migrations/0000-initial.php:63
+msgid "For those praying today who live in this area, take a moment to imagine what it would look like if everyone would do to others what they would have done unto them. Pray for those Kingdom realities to come."
+msgstr ""
+
+#: admin/prayer-field-content.php:541
+#: migrations/0000-initial.php:48
+#: migrations/0000-initial.php:64
+msgid "For those praying today who do not live in this area, pray for Christians to bring meals to the sick, give rides to the carless, listen well to those with burdens, visit those in the hospital, and to share with those in need. May the name of Jesus be exalted in these actions."
+msgstr ""
+
+#: admin/prayer-field-content.php:542
+#: migrations/0000-initial.php:49
+#: migrations/0000-initial.php:65
+msgid "We pray today for believers who have chosen the hard, narrow way that leads to life. When they are tempted to be jealous of those who get to \"do as they like\" on the easy, wide way, may they stop and remember the cross. Thank you, Jesus, for coming to reveal God and the way of the cross that loves and sacrifices. We pray that believers will deliberately choose to honor others, to forgive, to offer hospitality, and to serve with humility, giving their lives for Jesus' sake, calling others to the narrow way."
+msgstr ""
+
+#: admin/prayer-field-content.php:543
+#: migrations/0000-initial.php:50
+#: migrations/0000-initial.php:66
+msgid "Adil sat in the back of an old church building in the middle of the week, full of questions about Christianity.  It was forbidden for him to come when foreign Christians gathered there for worship, but he came when a small group practiced for choir. Tears streamed down his face, and he said apologetically, \"I feel such peace here. I can't stop crying.\" Then he asked, \"Is it okay for me to choose Jesus and still continue [in this sin that I love]?\" A brother told him that we all come as we are to God, and he is the one who cleanses us, but he tells us to \"Repent, for the kingdom of God is near.\"  Adil wanted life but was unwilling to turn away from the wide way of destruction to the narrow, hard, holy way. Lord, we pray for those who want you but want their old life, too. Please, stir their souls to repent and live."
+msgstr ""
+
+#: admin/prayer-field-content.php:544
+#: migrations/0000-initial.php:51
+#: migrations/0000-initial.php:67
+msgid ""
+"Pray that God would give grace to the church in this region to live out Jesus' Golden Rule, “Do to Others”,  teaching with one another. Pray for simple house churches to model this kind of love to each other and those around them. Pray for believers to proactively serve, visit the sick, listen to the wounded, grieve with the hurting, and show compassion to the weak...instead of waiting to be served, visited, or listened to.\n"
+"As they do, lead them to people who they could help form new house churches and Bible studies that would replicate such a way of life for God's glory."
+msgstr ""
+
+#: admin/prayer-field-content.php:546
+#: migrations/0000-initial.php:53
+#: migrations/0000-initial.php:69
+msgid ""
+"Places of Community\n"
+"\n"
+"Lead Christians in this region to find ways to serve their community and gain creative access to Muslim families around them. Pray that as Christians love Muslims the way they want to be loved, that Muslim families would want to know more about how they are fulfilling 'the Law and the Prophets'.\n"
+"Pray for Christians to stand out in their community for their unselfish love. Pray they would find people of peace who would gather family or friends to read the Bible together and learn more about the source of this unselfish love.\n"
+"Pray for community leaders to be softened to the Gospel and desire their community to be shaped by Jesus' teachings of love for enemies, serving others, and selflessness."
+msgstr ""
+
+#: admin/prayer-field-content.php:551
+#: migrations/0000-initial.php:58
+msgid "Jesus, you are the way, the truth, and the life. No one comes to the Father except through you (John 14:6). Tonight, as Muslims break their fast, go to the mosque, and do their prayers, we pray for dissatisfaction to grow in the sufficiency of their righteous acts. Whether through a dream or vision or talking with a Christian, give many Muslims in this area the chance to hear that \"I am the door. If anyone enters by me, he will be saved and will go in and out and find pasture.\" (John 10:9) As they learn more about you, guide them to engage with friends and family so that they can learn about you together."
+msgstr ""
+
+#: admin/prayer-field-content.php:555
+msgid "“Beware of false prophets, who come to you in sheep's clothing but inwardly are ravenous wolves. You will recognize them by their fruits. Are grapes gathered from thornbushes, or figs from thistles? So, every healthy tree bears good fruit, but the diseased tree bears bad fruit. A healthy tree cannot bear bad fruit, nor can a diseased tree bear good fruit. Every tree that does not bear good fruit is cut down and thrown into the fire. Thus you will recognize them by their fruits.\" (Matthew 7:15-20) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:556
+msgid "Like most people, Muslims care deeply about their outward appearance or reputation in the community. In contrast, Jesus cares about the person's heart. Religion can change outward behavior but can't change inward attitudes—only the Spirit of God can do that. Pray for the people of this area to be convicted about their need for a clean heart and to seek out Jesus' teachings on the topic."
+msgstr ""
+
+#: admin/prayer-field-content.php:557
+msgid "These were the very verses that brought Salima to walk the Way of Light. The beauty of Spirit fruit is borne only when the branch draws the sap from the trunk and roots. A thornbush cannot bear grapes. Only a redeemed, forgiven, Spirit-filled heart can bear love, joy, peace, patience, kindness, goodness, faithfulness, and self-control. (Galatians 5:22,23). Lord, we pray that your children will abide in the vine and will stay in Jesus, planted, unwavering.  We know that unless they abide, they will bear no fruit.  We ask for fruit that remains. (John 15)"
+msgstr ""
+
+#: admin/prayer-field-content.php:558
+msgid "Soumia longed to bear good fruit.  She wanted to be a mom who was patient and joyful, loving and self-controlled. She kept asking how it was possible, with so much work and responsibility, to still be a good mom filled with peace.  She wanted the fruit of the Spirit without receiving the Spirit. Lord, we pray for Muslims in this region to hear and believe the gospel, be filled with your Spirit, and bear good fruit. We solemnly recognize that trees that do not bear good fruit are cut down and thrown into the fire.  May Soumia and those like her receive the grace of the Gospel."
+msgstr ""
+
+#: admin/prayer-field-content.php:559
+msgid "One of the biggest arguments against disciple-making movements (DMM) is that if new believers lead simple churches, heresy will emerge. Opponents of DMM fail to recognize how most of the major heresies in church history came from theologically trained, charismatic leaders -- often ravenous wolves in sheep's clothing. We pray for simple churches in this region to continually grow deeper in the Word, that their theology and practice will match the Bible, and that they would have the discernment to differentiate between good fruit and bad fruit."
+msgstr ""
+
+#: admin/prayer-field-content.php:560
+msgid ""
+"Places of Business\n"
+"\n"
+"Pray for Kingdom businesses to open in this area that are led by Kingdom principles. May these places of business bear good fruit that is observable to their employees, clients, and competitors.\n"
+"\n"
+"Pray for employees to bear good fruit that would cause their co-workers and employers to ask questions about the hope that they have in Christ. Pray that the potentially costly decisions they make in pursuit of integrity and honesty will bear good fruit for God's glory."
+msgstr ""
+
+#: admin/prayer-field-content.php:565
+msgid ""
+"\"But the wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and good fruits, impartial and sincere. And a harvest of righteousness is sown in peace by those who make peace.\" (James 3:17-18) ESV\n"
+"\n"
+"Pray for believers in this area to model wisdom that is:\n"
+"- pure -- guard them against impure actions\n"
+"- peaceable -- protect them from argumentative spirits\n"
+"- gentle, open to reason -- free them from jumping to conclusions and thinking the worst of others\n"
+"- full of mercy and good fruits -- may they bear much fruit for God's glory\n"
+"- impartial and sincere -- may they be countercultural in showing impartiality in their judgments\n"
+"\n"
+"As a result, may there be a harvest of righteousness that results in disciples and churches multiplying throughout this land."
+msgstr ""
+
+#: admin/prayer-field-content.php:578
+msgid "“Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven.  On that day many will say to me, ‘Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?’ And then will I declare to them, ‘I never knew you; depart from me, you workers of lawlessness.’\" (Matthew 7:21-23) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:579
+msgid "In Islam, someone becomes a Muslim simply by reciting the shahada (Islamic declaration of faith) with conviction. Jesus says merely saying 'Lord, Lord' will not be enough to enter the kingdom of heaven. Today, as you pray for these people, ponder what it means to do the will of the Father who is in heaven. Pray for lost people to be saved by Jesus and for saved people in this region to become like Jesus."
+msgstr ""
+
+#: admin/prayer-field-content.php:580
+msgid "Samir asked, \"To become a Muslim, you must say the shahada. What do you say to become a Christian?\" A brother answered, \"In Romans, it says '...if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.' However, it is not simply saying a phrase; there must be a heart that surrenders to Jesus as the one with authority, a heart that obeys.\" Jesus, you are Lord. You have all authority in heaven and earth.  We pray that the believers of this area will follow their teacher and Lord and do what he says."
+msgstr ""
+
+#: admin/prayer-field-content.php:581
+msgid "\"What good is there for women in Jannah (paradise)? Men are promised virgins and wine, but what do women have to look forward to? Can you tell me more about what Paradise means for followers of Jesus?\" Belkis inquired of her friend. Her heart had been drawn to Christianity for a while, as she began to reject inconsistencies and hypocrisy in the religion she grew up in. Though she liked much of what she heard about Jesus and his way, she balked at his Lordship. She wanted to take the things she liked about Jesus and leave the things that made her uncomfortable. Pray for Belkis and multitudes like her who want to take blessing from Jesus and his teachings without submitting to his authority and Lordship over every dimension of their lives. Stir in them a fear of hearing Jesus' words, 'I never knew you.'"
+msgstr ""
+
+#: admin/prayer-field-content.php:582
+msgid "In Matthew 10:26-33, Jesus tells his followers not to fear and that \"...whoever denies me before men, I also will deny before my Father who is in heaven.\" We pray for simple churches among these people who would trust Jesus' teaching, be strengthened by His Spirit, and, with grace and wisdom, acknowledge Christ before others. We also pray for brothers and sisters who, in moments of persecution, have denied Christ out of fear. Restore them to yourself, just as you did Peter after he denied you three times."
+msgstr ""
+
+#: admin/prayer-field-content.php:583
+msgid ""
+"Places of Government\n"
+"\n"
+"Jesus, you send your disciples out as sheep among wolves. When they are delivered over to courts, government, and religion, and when they stand before governors and kings, we pray today that they will not be anxious about how to speak or what to say. Pray that believers who go before courts in this place would have countless testimonies of how \"...what you are to say will be given to you in that hour. For it is not you who speak, but the Spirit of your Father speaking through you.\" (Matthew 10:19-20)\n"
+"\n"
+"To those who watch how believers act in such moments -- judges, lawyers, officials -- may they be drawn to the Jesus that these men and women follow. May they repent of being 'workers of lawlessness'. (Matthew 7:23)"
+msgstr ""
+
+#: admin/prayer-field-content.php:588
+msgid "Miracles, prophecies, and mighty works do not rescue us; we must be known by God. Spirit of God, we pray that the lost in this land will hear and believe and come to know Jesus and be known by him. May they hear the truth of the gospel and really believe and know you, that you have loved them first and long for them to come to you.  Would they see how you are lovingly wooing them? Let them love you, know you, and do the will of the Father. Those who love you, will obey you. (John 15:14)"
+msgstr ""
+
+#: admin/prayer-field-content.php:592
+msgid "“Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock. And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock. And everyone who hears these words of mine and does not do them will be like a foolish man who built his house on the sand. And the rain fell, and the floods came, and the winds blew and beat against that house, and it fell, and great was the fall of it.” (Matthew 7:24-27) ESV"
+msgstr ""
+
+#: admin/prayer-field-content.php:593
+msgid "Today, many people in this place are building their lives on careers, family relationships, reputation, money, influence, and health. These are all things that cannot endure the floods and the winds of life. Pray for them to have the chance to learn of the Rock of Psalm 18:2, \"The Lord is my rock and my fortress and my deliverer, my God, my rock, in whom I take refuge, my shield, and the horn of my salvation, my stronghold.\""
+msgstr ""
+
+#: admin/prayer-field-content.php:594
+msgid "Riyadh grew up as a Muslim but came to faith in Christ as a young man. Despite persecution and losing relationships with family members, he held on to Jesus as his pearl of great price. He married a believer from his people group, and together, they began to build their lives based on the Bible, although they had few Christian examples to follow. They read the Bible, and Riyadh led his family in building their lives upon the Rock. Today, not only do their children follow Jesus, but God uses this couple to multiply His church by allowing them to teach others how to be disciples who make disciples.  The rain has fallen, floods came, winds blew, but they are steadfast because they trust Jesus' words. Pray for leaders like Riyadh and his wife to multiply themselves into many other leaders in this region."
+msgstr ""
+
+#: admin/prayer-field-content.php:595
+msgid "It started with cheating on exams in school. Then there was lying to parents and teachers...telling his fiancee what she wanted to hear… cutting corners, fudging accounts, taking a little here, and borrowing a little there. “As long as I don’t get caught,” Ali tells himself, “what's the harm?” As long as he stays ahead of the creditors... as long as he doesn't let his friends from different circles get to know each other. It's all fine until the house of cards starts to crumble. Ali, and many like him in this place, build their lives upon the sand and cannot stand when unexpected floods and winds come. Pray that when their world crumbles, they will have the opportunity to read Jesus' teachings, be convicted of the truth, and choose a different path. Pray that their testimony of transformation would result in friends and family also wanting to investigate the teachings of Jesus."
+msgstr ""
+
+#: admin/prayer-field-content.php:596
+msgid "Obedience brings stability. When we obey Jesus' commandments, we remain in his love. (John 15:10) This is the foundation, the rock we build upon. The love of God revealed in the sacrificial love of Jesus on the cross -- this is unshakable. Suffering and persecution may come, but nothing can separate us from the love of God, which is in Christ Jesus our Lord. He who did not spare his own Son, how will he not also give us all things? Who dares accuse us whom God has chosen for his own? Who will condemn us? (Romans 8:32-33) Pray that disciples in this place will not only hear the words of Jesus and believe the words of Jesus but also obey the words of Jesus and rest in the steadfastness of his love."
+msgstr ""
+
+#: admin/prayer-field-content.php:597
+msgid ""
+"Places of Religion\n"
+"\n"
+"As Muslims leave the mosque tonight and begin to prepare for Eid, the celebration to mark the end of Ramadan, we pray many will be filled with a desire to read the Injil (New Testament). We pray for God to increase the access they have to 'hearing these words' of Jesus online or in bookshops. We pray for them to begin to discover its truth. As they put into practice the things they read, may they experience the blessing that comes from being like the wise man in this teaching (Matthew 7:24-27). We pray for groups of friends and family members who go to the mosque together to begin to read God's Word together and be transformed."
+msgstr ""
+
+#: admin/prayer-field-content.php:600
+msgid "Have mercy, O God.  We confess that there are those in this area who have \"forsaken [God], the spring of living water and have dug their own cisterns, broken cisterns that cannot hold water.\" (Jeremiah 2:13) Reveal their brokenness to their own hearts, Lord. Let them see that before their eyes is a spring of life, that their endless striving to build something themselves is futile. Houses built on sand will be destroyed and can never provide shelter. Cisterns that leak can never quench thirst. Please, Jesus, let them see that your Word is true, that obeying you brings life and rest."
+msgstr ""
+
+#: admin/prayer-field-content.php:604
+msgid "\"And when Jesus finished these sayings, the crowds were astonished at his teaching, for he was teaching them as one who had authority, and not as their scribes.\" (Matthew 7:28-29)"
+msgstr ""
+
+#: admin/prayer-field-content.php:605
+msgid "Let's pray with one heart that multitudes of Muslims in this area would read and be astonished by the teachings of Jesus that we have prayed throughout this month. Pray that they would recognize His authority over their lives and respond obediently."
+msgstr ""
+
+#: admin/prayer-field-content.php:606
+msgid "Yosri grew up without a father for much of his life. He experienced abuse as a child and unforgiveness had sown deep pain in his heart. When he came across the authority of Jesus' teaching in this sermon -- especially his command that a person should \"love your enemies and pray for those who persecute you\", Yosri realized Jesus was the only way to true life. He forgave his abuser and experienced profound freedom. No one could hold him back from boldly sharing the Good News he found. Pray for Yosri and believers like him who are learning how to find open people with whom to study God's Word through methods like a Discovery Bible Study."
+msgstr ""
+
+#: admin/prayer-field-content.php:607
+msgid "Holy Spirit, please keep hovering over the people of this land. Reveal to them, Jesus.  Let them meet believers who teach obedience to everything Jesus commanded. (Matthew 28:20) As they hear the teaching of Jesus, let them receive it with humility and faith and follow him."
+msgstr ""
+
+#: admin/prayer-field-content.php:608
+msgid "Together, Lord Jesus, we pray that we and your children among this people group would humbly submit to your authority. Let no arrogance of education or intelligence ever woo your people away from surrendering to you. Convict your children when they begin to step into the sin of the first Adam, of wanting to define good and evil and be like God. We ask that all pride be stripped away and that your children obey you."
+msgstr ""
+
+#: admin/prayer-field-content.php:609
+msgid ""
+"Places of Education\n"
+"\n"
+"Jesus' authority and teaching were so far superior to all the teachers of His day. We pray that students all over society in this place will have the opportunity to come across Jesus' teachings. May they see how much better it is to live life surrendered to His teaching than any others.\n"
+"\n"
+"We pray for educators and professors who influence the next generation to have encounters with the risen Christ, put their hope in Him, and be used to bring good news to the people around them."
+msgstr ""
+
+#: admin/prayer-field-content.php:614
+msgid ""
+"Lord, we lift our voices together one last time. Thank you for these 31 days of prayer for our brothers and sisters in this land. Today, we remember our brothers and sisters across the whole Muslim world, and we declare The Good News that Christ, and not Caesar, reigns as Lord and Ruler of the Cosmos. Let this truth be heard in Mecca, the announcement that God’s Anointed, Jesus, rules as King. Let it be shared in Baghdad and Cairo that Christ has thrown down death and conquered the grave of exile. From Libya and Tunisia to Somalia and Sudan, from the islands of Indonesia to the mountains of Pakistan, from India to Iran, from the Gulf countries to the Levant and to Turkey, through all the war-torn towns, cities, and villages of Afghanistan, Yemen, and Syria: let the good news of the saving grace of Jesus, our Lord, be preached… spread…and incarnated into the world by followers of Jesus. Let men and women, children, and whole families be baptized into the community of saints. and be filled with the presence and power of God’s indwelling Holy Spirit. And then the end will come. And finally, Lord, the Lamb of God shall receive the full reward of His suffering…in and for the Muslim world...to the great glory and praise of You, our God and Father. At long last, let Your children come running home.\n"
+"\n"
+"Amen. Amen."
+msgstr ""
+
+#: admin/prayer-field-content.php:637
+#: migrations/0000-initial.php:91
+msgid "Pray as the Lord leads you as you read today's verse"
+msgstr ""
+
+#: admin/prayer-field-content.php:645
+#: migrations/0000-initial.php:99
+msgid "Praying with insight"
+msgstr ""
+
+#: admin/prayer-field-content.php:656
+#: migrations/0000-initial.php:110
+msgid "For believers"
+msgstr ""
+
+#: admin/prayer-field-content.php:664
+#: migrations/0000-initial.php:118
+msgid "For the lost"
+msgstr ""
+
+#: admin/prayer-field-content.php:672
+#: migrations/0000-initial.php:126
+msgid "For the church"
+msgstr ""
+
+#: admin/prayer-field-content.php:681
+#: migrations/0000-initial.php:135
+msgid "For areas of influence"
+msgstr ""
+
+#: admin/prayer-field-content.php:689
+#: migrations/0000-initial.php:143
+msgid "Declaration of the scripture"
+msgstr ""
