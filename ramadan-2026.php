@@ -5,7 +5,7 @@
  * Description: Disciple.Tools - Ramadan 2026 prayer fuel content.
  * Text Domain: ramadan-2026
  * Domain Path: /languages
- * Version:  1.0.10
+ * Version:  1.0.0
  * Author URI: https://github.com/Pray4Movement
  * GitHub Plugin URI: https://github.com/Pray4Movement/ramadan-2026
  * Requires at least: 4.7.0
@@ -55,7 +55,6 @@ function ramadan_2026() {
     }
 
     return Ramadan_2026::instance();
-
 }
 add_action( 'after_setup_theme', 'ramadan_2026', 20 );
 
@@ -117,7 +116,6 @@ class Ramadan_2026 {
         if ( is_admin() ) { // adds links to the plugin description area in the plugin admin list.
             add_filter( 'plugin_row_meta', [ $this, 'plugin_description_links' ], 10, 4 );
         }
-
     }
 
     /**
