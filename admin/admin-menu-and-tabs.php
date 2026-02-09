@@ -78,7 +78,7 @@ class Ramadan_2026_Tab_General {
         }
 
 
-        $prayer_fuel_ready = [ 'en_US', 'ar', 'fr_FR', 'pt_BR', 'es_ES', 'zh_Hans', 'hi_IN', 'te', 'kn', 'ta', 'ur', 'zh_Hant' ];
+        $prayer_fuel_ready = [ 'en_US', 'ar', 'fr_FR', 'pt_BR', 'es_ES', 'id_ID' ];
         ?>
         <table class="widefat striped">
             <thead>
