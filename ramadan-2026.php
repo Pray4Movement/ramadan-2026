@@ -5,7 +5,7 @@
  * Description: Disciple.Tools - Ramadan 2026 prayer fuel content.
  * Text Domain: ramadan-2026
  * Domain Path: /languages
- * Version:  1.0.1
+ * Version:  1.0.2
  * Author URI: https://github.com/Pray4Movement
  * GitHub Plugin URI: https://github.com/Pray4Movement/ramadan-2026
  * Requires at least: 4.7.0
